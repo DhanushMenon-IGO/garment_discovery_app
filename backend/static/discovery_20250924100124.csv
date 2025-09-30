@@ -1,0 +1,414 @@
+id,source,timestamp,garment_type,gender,color,pattern,style,engagement_likes,engagement_comments,engagement_views,geography,image_path,image_url,fit,length,neckline,sleeve,fabric,engagement_metric,influence_type,influence_identifier
+instagram_2,YouTube,2024-09-24,Jeans,men,red,checks,formal,4135,55,14639,India,img_002.jpg,,bodycon,full-length,off-shoulder,sleeveless,linen,6276.33,designer launches,Ralph Lauren Spring Collection 2024
+instagram_14,Marketplace,2024-10-28,Jeans,men,black,solid,festive,224,120,7681,US,img_014.jpg,,regular,knee-length,off-shoulder,half sleeve,cotton,2675.0,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_18,Instagram,2024-12-01,Jeans,men,pink,checks,formal,1791,292,19625,Europe,img_018.jpg,,a-line,midi,polo neck,sleeveless,linen,7236.0,trending memes,Vogue Challenge 2024
+instagram_34,Marketplace,2024-10-12,Jeans,men,red,tie-dye,athleisure,1013,117,13765,Europe,img_034.jpg,,regular,mini,halter,cap sleeve,polyester,4965.0,trending memes,Cottagecore Revival Meme 2024
+instagram_53,YouTube,2024-05-05,Jeans,men,"green, beige",abstract,festive,1123,549,7187,Global,img_053.jpg,,oversized,knee-length,collared,half sleeve,linen,2953.0,event - political,US Presidential Election 2024
+instagram_76,Cinema,2024-05-09,Jeans,men,"beige, white",checks,casual,4181,114,12569,Global,img_076.jpg,,Slim fit,maxi,polo neck,sleeveless,viscose,5621.33,franchise,Fast X Sequel 2024
+instagram_79,Facebook,2025-06-13,Jeans,men,white,abstract,streetwear,6698,59,51486,India,img_079.jpg,,Slim fit,full-length,crew neck,half sleeve,viscose,19414.33,designer launches,Dior Haute 2025
+instagram_89,YouTube,2024-05-02,Jeans,men,red,checks,streetwear,2574,32,939,US,img_089.jpg,,Slim fit,knee-length,crew neck,cap sleeve,polyester,1181.67,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_92,Facebook,2024-06-21,Jeans,men,pink,abstract,festive,9232,237,51607,Europe,img_092.jpg,,oversized,ankle-length,square neck,puff sleeve,linen,20358.67,trending memes,Galaxy Brain Remix
+instagram_118,Cinema,2024-01-19,Jeans,men,beige,checks,formal,5638,403,13225,Global,img_118.jpg,,oversized,maxi,halter,cap sleeve,cotton,6422.0,franchise,Fast X Sequel 2024
+instagram_173,Celebrities,2025-04-15,Jeans,men,"blue, pink",stripes,athleisure,804,277,31082,Europe,img_173.jpg,,a-line,midi,boat neck,bell sleeve,viscose,10721.0,franchise,Star Wars New Trilogy 2025
+instagram_184,Celebrities,2024-10-29,Jeans,men,green,solid,formal,535,141,171,US,img_184.jpg,,bodycon,ankle-length,halter,cap sleeve,knits,282.33,designer launches,Ralph Lauren Spring Collection 2024
+instagram_240,Facebook,2024-04-12,Jeans,men,"red, green",checks,formal,3941,353,20379,Europe,img_240.jpg,,a-line,full-length,crew neck,puff sleeve,denim,8224.33,franchise,Marvel Phase 5 Release 2024
+instagram_264,Celebrities,2024-07-20,Jeans,men,blue,stripes,festive,1718,99,594,Global,img_264.jpg,,straight cut,knee-length,v-neck,full sleeve,cotton,803.67,books,Pulitzer Feature 2024
+instagram_273,Celebrities,2024-07-30,Jeans,men,green,floral,festive,1293,242,3693,Europe,img_273.jpg,,a-line,mini,halter,3/4 sleeve,linen,1742.67,event - political,US Presidential Election 2024
+instagram_363,Celebrities,2024-08-24,Jeans,men,green,abstract,athleisure,5868,143,8464,India,img_363.jpg,,fit,midi,halter,sleeveless,knits,4825.0,franchise,Fast X Sequel 2024
+instagram_375,Facebook,2024-07-29,Jeans,men,green,polka dots,festive,596,154,26617,Global,img_375.jpg,,bodycon,ankle-length,square neck,cap sleeve,linen,9122.33,event - political,US Presidential Election 2024
+instagram_405,Cinema,2024-11-25,Jeans,men,black,animal print,festive,6019,119,17049,US,img_405.jpg,,straight cut,maxi,polo neck,puff sleeve,denim,7729.0,trending memes,Galaxy Brain Remix
+instagram_432,YouTube,2024-10-01,Jeans,men,red,checks,athleisure,267,93,34377,India,img_432.jpg,,bodycon,knee-length,off-shoulder,cap sleeve,knits,11579.0,franchise,Marvel Phase 5 Release 2024
+instagram_436,Marketplace,2024-10-20,Jeans,men,"blue, green",animal print,casual,3942,404,17672,Global,img_436.jpg,,Slim fit,maxi,polo neck,sleeveless,knits,7339.33,franchise,Marvel Phase 5 Release 2024
+instagram_456,Instagram,2024-10-27,Jeans,men,white,tie-dye,streetwear,3282,300,19873,Global,img_456.jpg,,Slim fit,maxi,off-shoulder,full sleeve,cotton,7818.33,event - political,EU Parliament 2024
+instagram_465,Instagram,2024-11-22,Jeans,men,beige,abstract,athleisure,3836,91,5415,US,img_465.jpg,,relaxed fit,ankle-length,off-shoulder,cap sleeve,linen,3114.0,trending memes,Galaxy Brain Remix
+instagram_469,Instagram,2024-04-02,Jeans,men,white,solid,streetwear,5014,309,40258,India,img_469.jpg,,oversized,midi,boat neck,bell sleeve,rayon,15193.67,designer launches,Chanel Cruise 2024
+instagram_504,Cinema,2024-06-10,Jeans,men,blue,floral,athleisure,5413,467,11044,US,img_504.jpg,,relaxed fit,ankle-length,halter,half sleeve,cotton,5641.33,designer launches,Chanel Cruise 2024
+instagram_512,YouTube,2024-05-25,Jeans,men,white,tie-dye,formal,5277,396,19563,India,img_512.jpg,,a-line,ankle-length,boat neck,cap sleeve,cotton,8412.0,trending memes,Distracted Boyfriend Revival
+instagram_530,Cinema,2024-03-24,Jeans,men,white,stripes,athleisure,11401,154,27877,Europe,img_530.jpg,,flared,cropped,crew neck,full sleeve,viscose,13144.0,books,Bestseller Book Tour 2024
+instagram_545,YouTube,2024-05-10,Jeans,men,black,solid,formal,2311,154,7929,Europe,img_545.jpg,,a-line,maxi,collared,half sleeve,linen,3464.67,event - memes,Oscar Memes 2024
+instagram_579,Facebook,2024-01-12,Jeans,men,black,checks,streetwear,4032,133,8626,US,img_579.jpg,,oversized,mini,square neck,cap sleeve,polyester,4263.67,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_590,Cinema,2024-03-16,Jeans,men,yellow,stripes,festive,887,134,32201,Global,img_590.jpg,,Slim fit,full-length,v-neck,3/4 sleeve,viscose,11074.0,event - political,US Presidential Election 2024
+instagram_596,Celebrities,2024-07-14,Jeans,men,pink,graphic prints,formal,777,73,25978,Global,img_596.jpg,,Slim fit,ankle-length,polo neck,half sleeve,jersey,8942.67,books,Pulitzer Feature 2024
+instagram_602,Facebook,2024-08-06,Jeans,men,white,polka dots,athleisure,3547,26,10751,US,img_602.jpg,,relaxed fit,cropped,polo neck,cap sleeve,rayon,4774.67,trending memes,Galaxy Brain Remix
+instagram_607,Marketplace,2025-04-29,Jeans,men,yellow,floral,casual,599,48,35923,Europe,img_607.jpg,,straight cut,full-length,square neck,3/4 sleeve,linen,12190.0,designer launches,Dior Haute 2025
+instagram_633,Instagram,2024-10-10,Jeans,men,yellow,abstract,athleisure,258,59,19260,US,img_633.jpg,,a-line,midi,polo neck,half sleeve,rayon,6525.67,event - political,India State Elections 2024
+instagram_636,Marketplace,2024-04-28,Jeans,men,pink,checks,streetwear,3139,54,8093,US,img_636.jpg,,Slim fit,mini,polo neck,bell sleeve,denim,3762.0,franchise,Fast X Sequel 2024
+instagram_659,Cinema,2024-12-14,Jeans,men,red,polka dots,streetwear,84,191,6181,US,img_659.jpg,,Slim fit,full-length,v-neck,bell sleeve,rayon,2152.0,event - political,EU Parliament 2024
+instagram_671,Marketplace,2025-07-03,Jeans,men,white,floral,festive,3051,216,9368,Global,img_671.jpg,,relaxed fit,midi,collared,full sleeve,linen,4211.67,books,Book-to-Film Adaptation 2025
+instagram_674,Cinema,2024-07-25,Jeans,men,beige,floral,formal,773,90,3234,Global,img_674.jpg,,oversized,cropped,boat neck,full sleeve,blends,1365.67,designer launches,Ralph Lauren Spring Collection 2024
+instagram_687,Celebrities,2025-01-26,Jeans,men,red,tie-dye,festive,3155,121,1654,Global,img_687.jpg,,regular,maxi,halter,puff sleeve,knits,1643.33,designer launches,Dior Haute 2025
+instagram_691,Instagram,2024-09-26,Jeans,men,white,animal print,formal,1472,308,2402,India,img_691.jpg,,oversized,ankle-length,halter,cap sleeve,denim,1394.0,books,Bestseller Book Tour 2024
+instagram_723,Facebook,2024-04-18,Jeans,men,black,polka dots,streetwear,1933,375,1493,Global,img_723.jpg,,Slim fit,midi,polo neck,puff sleeve,denim,1267.0,trending memes,Vogue Challenge 2024
+instagram_795,Marketplace,2024-01-22,Jeans,men,green,tie-dye,athleisure,3112,303,8024,India,img_795.jpg,,regular,maxi,crew neck,bell sleeve,linen,3813.0,event - political,India State Elections 2024
+instagram_797,Marketplace,2024-12-09,Jeans,men,beige,animal print,athleisure,2979,91,17321,India,img_797.jpg,,bodycon,cropped,off-shoulder,puff sleeve,cotton,6797.0,trending memes,Cottagecore Revival Meme 2024
+instagram_823,Instagram,2024-02-06,Jeans,men,green,animal print,formal,2268,103,41619,US,img_823.jpg,,fit,cropped,crew neck,half sleeve,cotton,14663.33,books,Bestseller Book Tour 2024
+instagram_827,Instagram,2024-12-12,Jeans,men,green,animal print,athleisure,4102,66,7114,India,img_827.jpg,,bodycon,maxi,v-neck,3/4 sleeve,knits,3760.67,event - memes,Oscar Memes 2024
+instagram_838,YouTube,2025-01-06,Jeans,men,black,tie-dye,casual,999,350,27712,Global,img_838.jpg,,oversized,midi,square neck,3/4 sleeve,knits,9687.0,franchise,Star Wars New Trilogy 2025
+instagram_858,Cinema,2025-02-14,Jeans,men,blue,solid,athleisure,6036,36,12963,US,img_858.jpg,,fit,ankle-length,polo neck,full sleeve,denim,6345.0,designer launches,Dior Haute 2025
+instagram_867,Cinema,2024-08-18,Jeans,men,white,tie-dye,festive,2446,442,16626,Global,img_867.jpg,,a-line,midi,collared,sleeveless,cotton,6504.67,event - memes,Oscar Memes 2024
+instagram_873,YouTube,2024-08-28,Jeans,men,green,tie-dye,athleisure,274,379,25266,India,img_873.jpg,,regular,knee-length,square neck,half sleeve,polyester,8639.67,franchise,Fast X Sequel 2024
+instagram_891,Cinema,2025-04-25,Jeans,men,beige,animal print,festive,4539,233,140,Europe,img_891.jpg,,straight cut,full-length,halter,cap sleeve,cotton,1637.33,franchise,Star Wars New Trilogy 2025
+instagram_904,YouTube,2025-04-14,Jeans,men,"blue, green",floral,festive,2959,284,32544,Global,img_904.jpg,,oversized,ankle-length,collared,cap sleeve,polyester,11929.0,designer launches,Dior Haute 2025
+instagram_907,Celebrities,2024-09-18,Jeans,men,green,graphic prints,formal,1176,172,43706,Global,img_907.jpg,,a-line,midi,square neck,full sleeve,cotton,15018.0,designer launches,Ralph Lauren Spring Collection 2024
+instagram_936,Cinema,2024-09-17,Jeans,men,red,animal print,athleisure,5880,301,19520,India,img_936.jpg,,Slim fit,cropped,crew neck,full sleeve,knits,8567.0,event - memes,Oscar Memes 2024
+instagram_957,Facebook,2025-04-19,Jeans,men,red,polka dots,streetwear,1835,34,7067,Europe,img_957.jpg,,relaxed fit,full-length,off-shoulder,bell sleeve,knits,2978.67,event - memes,Super Bowl Halftime Meme 2025
+instagram_967,Marketplace,2024-12-29,Jeans,men,pink,floral,streetwear,57,72,26511,Global,img_967.jpg,,flared,ankle-length,off-shoulder,3/4 sleeve,knits,8880.0,trending memes,Cottagecore Revival Meme 2024
+instagram_980,Celebrities,2024-08-06,Jeans,men,green,stripes,festive,2472,182,30683,Global,img_980.jpg,,fit,full-length,off-shoulder,3/4 sleeve,viscose,11112.33,trending memes,Galaxy Brain Remix
+instagram_997,YouTube,2024-12-28,Jeans,men,white,polka dots,festive,4089,146,35318,US,img_997.jpg,,oversized,full-length,square neck,sleeveless,rayon,13184.33,franchise,Fast X Sequel 2024
+instagram_1023,Celebrities,2024-01-05,Jeans,men,beige,animal print,casual,3883,358,51698,US,img_1023.jpg,,regular,cropped,v-neck,sleeveless,denim,18646.33,event - political,EU Parliament 2024
+instagram_1052,Marketplace,2024-12-01,Jeans,men,green,solid,formal,1594,99,24413,Global,img_1052.jpg,,oversized,knee-length,boat neck,3/4 sleeve,denim,8702.0,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_1066,Instagram,2024-02-05,Jeans,men,white,animal print,athleisure,6153,195,62109,Global,img_1066.jpg,,straight cut,ankle-length,collared,sleeveless,blends,22819.0,trending memes,Vogue Challenge 2024
+instagram_1092,Cinema,2024-01-21,Jeans,men,black,floral,formal,2831,291,89,India,img_1092.jpg,,fit,full-length,off-shoulder,full sleeve,blends,1070.33,event - political,EU Parliament 2024
+instagram_1118,YouTube,2025-06-04,Jeans,men,green,animal print,casual,2696,2,27813,US,img_1118.jpg,,oversized,mini,off-shoulder,puff sleeve,blends,10170.33,cinemas/series/cartoons/anime,Strange New Worlds Season 3 2025
+instagram_1125,Facebook,2024-08-30,Jeans,men,beige,abstract,streetwear,673,10,50198,Europe,img_1125.jpg,,Slim fit,ankle-length,v-neck,3/4 sleeve,denim,16960.33,franchise,Marvel Phase 5 Release 2024
+instagram_1128,YouTube,2024-04-02,Jeans,men,red,abstract,streetwear,5013,204,18917,US,img_1128.jpg,,flared,midi,square neck,half sleeve,jersey,8044.67,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_1145,Marketplace,2024-12-02,Jeans,men,red,polka dots,athleisure,2870,11,10192,US,img_1145.jpg,,straight cut,maxi,collared,puff sleeve,cotton,4357.67,designer launches,Ralph Lauren Spring Collection 2024
+instagram_1163,Celebrities,2024-07-22,Jeans,men,white,abstract,festive,3387,295,30403,Europe,img_1163.jpg,,fit,knee-length,off-shoulder,bell sleeve,linen,11361.67,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_1195,Celebrities,2024-04-27,Jeans,men,blue,checks,streetwear,803,437,33892,Global,img_1195.jpg,,a-line,knee-length,off-shoulder,3/4 sleeve,knits,11710.67,franchise,Fast X Sequel 2024
+instagram_1202,YouTube,2024-09-14,Jeans,men,"pink, red",stripes,athleisure,3517,150,29265,Global,img_1202.jpg,,relaxed fit,mini,v-neck,sleeveless,denim,10977.33,trending memes,Galaxy Brain Remix
+instagram_1212,Marketplace,2024-02-29,Jeans,men,white,polka dots,streetwear,8431,47,31732,Global,img_1212.jpg,,regular,cropped,crew neck,full sleeve,viscose,13403.33,event - memes,Oscar Memes 2024
+instagram_1242,Cinema,2025-06-25,Jeans,men,red,animal print,athleisure,2188,144,21525,Global,img_1242.jpg,,flared,midi,collared,cap sleeve,cotton,7952.33,designer launches,Dior Haute 2025
+instagram_1244,Instagram,2024-10-16,Jeans,men,"blue, white",abstract,athleisure,2945,361,34963,Europe,img_1244.jpg,,straight cut,knee-length,v-neck,bell sleeve,knits,12756.33,franchise,Marvel Phase 5 Release 2024
+instagram_1278,Facebook,2024-10-09,Jeans,men,"green, yellow",tie-dye,streetwear,2212,158,20746,Global,img_1278.jpg,,flared,knee-length,collared,puff sleeve,linen,7705.33,franchise,Marvel Phase 5 Release 2024
+instagram_1280,Facebook,2024-06-30,Jeans,men,beige,abstract,streetwear,1935,199,42638,India,img_1280.jpg,,relaxed fit,full-length,boat neck,bell sleeve,linen,14924.0,event - memes,Oscar Memes 2024
+instagram_1292,Celebrities,2024-11-18,Jeans,men,beige,tie-dye,formal,3685,213,12403,India,img_1292.jpg,,fit,maxi,halter,half sleeve,viscose,5433.67,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_1294,Instagram,2024-10-18,Jeans,men,green,solid,formal,1392,135,41031,US,img_1294.jpg,,bodycon,full-length,halter,half sleeve,blends,14186.0,event - memes,Oscar Memes 2024
+instagram_1333,YouTube,2024-05-27,Jeans,men,yellow,checks,casual,6170,346,17950,Global,img_1333.jpg,,oversized,midi,boat neck,puff sleeve,polyester,8155.33,designer launches,Ralph Lauren Spring Collection 2024
+instagram_1351,Facebook,2024-09-24,Jeans,men,yellow,tie-dye,casual,6062,56,7053,India,img_1351.jpg,,straight cut,mini,crew neck,bell sleeve,denim,4390.33,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_1368,Celebrities,2024-09-01,Jeans,men,pink,animal print,casual,4908,534,37434,India,img_1368.jpg,,regular,knee-length,polo neck,3/4 sleeve,denim,14292.0,event - memes,Oscar Memes 2024
+instagram_1372,Celebrities,2025-04-28,Jeans,men,beige,tie-dye,athleisure,545,36,44204,India,img_1372.jpg,,flared,full-length,boat neck,bell sleeve,rayon,14928.33,trending memes,Distracted Boyfriend Revival
+instagram_1423,Instagram,2024-06-21,Jeans,men,black,graphic prints,casual,348,148,1968,Europe,img_1423.jpg,,regular,full-length,boat neck,sleeveless,linen,821.33,event - political,India State Elections 2024
+instagram_1425,Facebook,2024-06-06,Jeans,men,yellow,checks,festive,4056,134,59429,Europe,img_1425.jpg,,straight cut,cropped,off-shoulder,puff sleeve,knits,21206.33,books,Bestseller Book Tour 2024
+instagram_1427,Cinema,2024-02-13,Jeans,men,"white, beige",tie-dye,casual,3758,99,21311,Global,img_1427.jpg,,straight cut,knee-length,polo neck,full sleeve,jersey,8389.33,designer launches,Gucci FW 2024
+instagram_1435,Celebrities,2024-01-25,Jeans,men,red,graphic prints,formal,727,116,53000,Global,img_1435.jpg,,straight cut,maxi,boat neck,full sleeve,rayon,17947.67,books,Pulitzer Feature 2024
+instagram_1445,Marketplace,2025-03-10,Jeans,men,green,checks,formal,1160,155,10057,Europe,img_1445.jpg,,a-line,mini,collared,3/4 sleeve,denim,3790.67,trending memes,Galaxy Brain Remix
+instagram_1478,Marketplace,2024-12-10,Jeans,men,"beige, white",graphic prints,casual,2694,136,61254,Europe,img_1478.jpg,,Slim fit,midi,halter,half sleeve,viscose,21361.33,franchise,Fast X Sequel 2024
+instagram_1484,Facebook,2025-06-11,Jeans,men,red,graphic prints,streetwear,3600,152,662,US,img_1484.jpg,,fit,maxi,boat neck,puff sleeve,cotton,1471.33,franchise,Star Wars New Trilogy 2025
+instagram_1489,Cinema,2024-03-04,Jeans,men,pink,polka dots,athleisure,6432,440,3915,India,img_1489.jpg,,relaxed fit,ankle-length,polo neck,sleeveless,denim,3595.67,event - political,India State Elections 2024
+instagram_1507,Marketplace,2024-02-29,Jeans,men,yellow,graphic prints,formal,1773,57,85789,US,img_1507.jpg,,straight cut,midi,crew neck,puff sleeve,cotton,29206.33,event - memes,Oscar Memes 2024
+instagram_1529,Cinema,2024-07-28,Jeans,men,"beige, black",animal print,athleisure,2656,364,39935,US,img_1529.jpg,,fit,knee-length,v-neck,cap sleeve,linen,14318.33,designer launches,Chanel Cruise 2024
+instagram_1546,Cinema,2024-04-01,Jeans,men,blue,animal print,festive,779,220,780,Europe,img_1546.jpg,,straight cut,midi,boat neck,full sleeve,polyester,593.0,designer launches,Chanel Cruise 2024
+instagram_1557,YouTube,2024-06-07,Jeans,men,red,animal print,casual,3142,303,875,India,img_1557.jpg,,straight cut,ankle-length,polo neck,full sleeve,knits,1440.0,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_1577,Celebrities,2024-10-25,Jeans,men,red,animal print,festive,3586,183,33021,India,img_1577.jpg,,fit,maxi,polo neck,bell sleeve,linen,12263.33,event - political,India State Elections 2024
+instagram_1590,Celebrities,2025-02-12,Jeans,men,white,animal print,casual,3711,96,21519,US,img_1590.jpg,,relaxed fit,mini,v-neck,cap sleeve,viscose,8442.0,designer launches,Dior Haute 2025
+instagram_1620,Facebook,2024-05-12,Jeans,men,yellow,polka dots,athleisure,10860,275,14961,Europe,img_1620.jpg,,a-line,mini,halter,3/4 sleeve,cotton,8698.67,event - memes,Oscar Memes 2024
+instagram_1627,YouTube,2025-01-16,Jeans,men,black,tie-dye,festive,4087,111,27062,US,img_1627.jpg,,Slim fit,full-length,polo neck,cap sleeve,viscose,10420.0,cinemas/series/cartoons/anime,Strange New Worlds Season 3 2025
+instagram_1628,YouTube,2024-03-12,Jeans,men,black,floral,casual,1594,404,40209,Global,img_1628.jpg,,Slim fit,midi,square neck,bell sleeve,cotton,14069.0,event - memes,Oscar Memes 2024
+instagram_1629,Celebrities,2024-05-05,Jeans,men,beige,solid,formal,1782,457,11584,US,img_1629.jpg,,flared,maxi,crew neck,full sleeve,blends,4607.67,books,Pulitzer Feature 2024
+instagram_1640,Facebook,2024-04-11,Jeans,men,yellow,abstract,festive,3755,311,2821,US,img_1640.jpg,,oversized,ankle-length,off-shoulder,half sleeve,cotton,2295.67,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_1645,YouTube,2024-05-26,Jeans,men,white,tie-dye,festive,3393,228,51298,India,img_1645.jpg,,fit,knee-length,polo neck,full sleeve,linen,18306.33,event - memes,April Fools Viral 2024
+instagram_1653,Facebook,2025-09-01,Jeans,men,beige,animal print,formal,3985,45,43815,Europe,img_1653.jpg,,flared,mini,off-shoulder,puff sleeve,denim,15948.33,designer launches,Prada SS 2025
+instagram_1667,Marketplace,2025-05-08,Jeans,men,white,animal print,formal,2592,295,5683,US,img_1667.jpg,,a-line,maxi,halter,cap sleeve,viscose,2856.67,designer launches,Dior Haute 2025
+instagram_1675,Marketplace,2024-03-06,Jeans,men,red,floral,formal,2828,284,76688,India,img_1675.jpg,,bodycon,full-length,square neck,half sleeve,linen,26600.0,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_1678,Marketplace,2024-10-28,Jeans,men,"blue, beige",checks,casual,475,249,15803,Global,img_1678.jpg,,flared,mini,collared,cap sleeve,blends,5509.0,trending memes,Cottagecore Revival Meme 2024
+instagram_1707,Cinema,2024-10-13,Jeans,men,green,abstract,casual,3661,175,50954,US,img_1707.jpg,,relaxed fit,midi,square neck,cap sleeve,viscose,18263.33,event - memes,Oscar Memes 2024
+instagram_1713,Facebook,2025-08-10,Jeans,men,blue,abstract,streetwear,1266,561,58751,India,img_1713.jpg,,relaxed fit,full-length,crew neck,cap sleeve,jersey,20192.67,franchise,Star Wars New Trilogy 2025
+instagram_1714,Facebook,2024-04-02,Jeans,men,blue,animal print,formal,1842,133,23823,Europe,img_1714.jpg,,bodycon,midi,polo neck,puff sleeve,rayon,8599.33,event - political,India State Elections 2024
+instagram_1724,YouTube,2024-05-06,Jeans,men,white,abstract,festive,10275,556,34196,Global,img_1724.jpg,,flared,cropped,collared,puff sleeve,rayon,15009.0,event - political,EU Parliament 2024
+instagram_1729,Facebook,2024-12-26,Jeans,men,beige,polka dots,athleisure,1778,469,10584,Global,img_1729.jpg,,Slim fit,maxi,boat neck,full sleeve,knits,4277.0,event - political,US Presidential Election 2024
+instagram_1760,Cinema,2025-06-29,Jeans,men,"green, red",abstract,formal,4030,567,4174,Global,img_1760.jpg,,relaxed fit,knee-length,off-shoulder,3/4 sleeve,knits,2923.67,designer launches,Dior Haute 2025
+instagram_1768,Marketplace,2024-05-22,Jeans,men,pink,polka dots,festive,6274,63,26632,Europe,img_1768.jpg,,bodycon,ankle-length,square neck,3/4 sleeve,linen,10989.67,event - memes,Oscar Memes 2024
+instagram_1778,Cinema,2025-02-19,Jeans,men,beige,graphic prints,formal,1511,80,7696,US,img_1778.jpg,,flared,cropped,boat neck,full sleeve,knits,3095.67,event - memes,Super Bowl Halftime Meme 2025
+instagram_1807,Celebrities,2024-05-17,Jeans,men,green,tie-dye,festive,3170,79,23705,US,img_1807.jpg,,fit,knee-length,boat neck,puff sleeve,jersey,8984.67,event - political,US Presidential Election 2024
+instagram_1817,Facebook,2024-08-09,Jeans,men,"black, red, beige",checks,casual,293,179,10316,India,img_1817.jpg,,oversized,cropped,boat neck,3/4 sleeve,knits,3596.0,franchise,Fast X Sequel 2024
+instagram_1844,Cinema,2025-08-02,Jeans,men,"green, white",tie-dye,casual,741,47,13786,India,img_1844.jpg,,regular,ankle-length,polo neck,3/4 sleeve,rayon,4858.0,designer launches,Dior Haute 2025
+instagram_1863,Marketplace,2024-01-21,Jeans,men,"yellow, white",graphic prints,formal,8576,136,24019,India,img_1863.jpg,,straight cut,ankle-length,collared,bell sleeve,rayon,10910.33,franchise,Marvel Phase 5 Release 2024
+instagram_1872,Celebrities,2024-06-21,Jeans,men,"beige, black, white",abstract,casual,1713,97,34659,Europe,img_1872.jpg,,fit,midi,crew neck,sleeveless,viscose,12156.33,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_1895,Instagram,2024-06-10,Jeans,men,"red, blue",animal print,festive,805,115,20155,Europe,img_1895.jpg,,a-line,full-length,off-shoulder,half sleeve,denim,7025.0,event - memes,Oscar Memes 2024
+instagram_1901,YouTube,2024-01-15,Jeans,men,beige,checks,casual,971,124,20898,Global,img_1901.jpg,,oversized,cropped,off-shoulder,bell sleeve,viscose,7331.0,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_1919,Marketplace,2025-01-27,Jeans,men,"pink, blue",checks,formal,168,88,2720,Global,img_1919.jpg,,regular,maxi,crew neck,full sleeve,polyester,992.0,designer launches,Prada SS 2025
+instagram_1931,Marketplace,2024-11-12,Jeans,men,beige,solid,festive,5987,161,8984,India,img_1931.jpg,,Slim fit,knee-length,crew neck,half sleeve,blends,5044.0,event - memes,Oscar Memes 2024
+instagram_1934,Cinema,2024-11-21,Jeans,men,blue,floral,athleisure,5346,379,3301,Global,img_1934.jpg,,fit,mini,collared,bell sleeve,linen,3008.67,trending memes,Vogue Challenge 2024
+instagram_1942,Celebrities,2024-07-28,Jeans,men,"beige, white",abstract,casual,166,34,2491,US,img_1942.jpg,,bodycon,ankle-length,polo neck,full sleeve,viscose,897.0,trending memes,Cottagecore Revival Meme 2024
+instagram_1950,Marketplace,2024-10-26,Jeans,men,"blue, beige",stripes,formal,472,114,16526,US,img_1950.jpg,,bodycon,ankle-length,off-shoulder,full sleeve,jersey,5704.0,books,Bestseller Book Tour 2024
+instagram_1968,Instagram,2024-02-11,Jeans,men,beige,animal print,streetwear,7263,146,6892,India,img_1968.jpg,,a-line,full-length,square neck,sleeveless,polyester,4767.0,franchise,Fast X Sequel 2024
+instagram_1975,YouTube,2024-10-19,Jeans,men,yellow,animal print,athleisure,2643,65,53009,Europe,img_1975.jpg,,regular,ankle-length,off-shoulder,sleeveless,linen,18572.33,event - memes,Oscar Memes 2024
+instagram_1980,Celebrities,2024-08-19,Jeans,men,"black, blue, yellow",checks,festive,3827,134,37943,US,img_1980.jpg,,regular,maxi,square neck,cap sleeve,polyester,13968.0,designer launches,Chanel Cruise 2024
+instagram_1985,Celebrities,2024-10-25,Jeans,men,beige,floral,streetwear,207,91,27302,Global,img_1985.jpg,,straight cut,mini,v-neck,3/4 sleeve,knits,9200.0,event - political,US Presidential Election 2024
+instagram_2066,YouTube,2025-02-27,Jeans,men,red,stripes,festive,1535,145,15771,US,img_2066.jpg,,flared,ankle-length,halter,sleeveless,linen,5817.0,trending memes,Distracted Boyfriend Revival
+instagram_2067,Cinema,2024-11-13,Jeans,men,pink,polka dots,athleisure,1515,312,18861,US,img_2067.jpg,,relaxed fit,ankle-length,v-neck,cap sleeve,jersey,6896.0,event - memes,April Fools Viral 2024
+instagram_2086,Cinema,2024-06-20,Jeans,men,"white, yellow, black",checks,streetwear,37,290,36660,Global,img_2086.jpg,,a-line,full-length,crew neck,full sleeve,blends,12329.0,event - memes,Oscar Memes 2024
+instagram_2091,Facebook,2024-06-05,Jeans,men,red,polka dots,casual,4419,80,75205,India,img_2091.jpg,,bodycon,full-length,halter,bell sleeve,linen,26568.0,event - political,India State Elections 2024
+instagram_2096,YouTube,2024-11-13,Jeans,men,white,floral,casual,5566,7,15982,India,img_2096.jpg,,bodycon,ankle-length,boat neck,half sleeve,viscose,7185.0,event - political,EU Parliament 2024
+instagram_2100,Marketplace,2025-01-29,Jeans,men,white,floral,formal,538,26,25700,Global,img_2100.jpg,,Slim fit,midi,halter,bell sleeve,rayon,8754.67,designer launches,Prada SS 2025
+instagram_2120,YouTube,2024-02-28,Jeans,men,white,checks,athleisure,1949,152,11874,Global,img_2120.jpg,,fit,cropped,crew neck,half sleeve,cotton,4658.33,designer launches,Chanel Cruise 2024
+instagram_2135,Instagram,2024-09-28,Jeans,men,pink,tie-dye,festive,2236,219,27674,India,img_2135.jpg,,flared,knee-length,off-shoulder,half sleeve,denim,10043.0,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_2154,Facebook,2025-06-28,Jeans,men,white,floral,casual,115,248,23300,Europe,img_2154.jpg,,regular,midi,off-shoulder,puff sleeve,jersey,7887.67,cinemas/series/cartoons/anime,Strange New Worlds Season 3 2025
+instagram_2155,YouTube,2024-09-15,Jeans,men,green,checks,festive,1841,160,24867,India,img_2155.jpg,,straight cut,maxi,collared,full sleeve,linen,8956.0,books,Pulitzer Feature 2024
+instagram_2169,Facebook,2024-03-03,Jeans,men,black,solid,athleisure,470,36,54482,US,img_2169.jpg,,flared,maxi,crew neck,3/4 sleeve,linen,18329.33,trending memes,Cottagecore Revival Meme 2024
+instagram_2186,Celebrities,2024-02-15,Jeans,men,beige,abstract,streetwear,1033,207,38063,Europe,img_2186.jpg,,fit,maxi,square neck,3/4 sleeve,knits,13101.0,trending memes,Galaxy Brain Remix
+instagram_2196,Facebook,2025-08-06,Jeans,men,yellow,polka dots,festive,4965,319,13582,Global,img_2196.jpg,,relaxed fit,cropped,boat neck,bell sleeve,viscose,6288.67,franchise,Star Wars New Trilogy 2025
+instagram_2213,Marketplace,2024-11-28,Jeans,men,"white, pink",graphic prints,athleisure,2814,260,2920,Europe,img_2213.jpg,,bodycon,ankle-length,square neck,sleeveless,linen,1998.0,franchise,Fast X Sequel 2024
+instagram_2223,Marketplace,2025-05-13,Jeans,men,"beige, red",stripes,athleisure,2892,295,29495,Global,img_2223.jpg,,a-line,midi,v-neck,cap sleeve,cotton,10894.0,cinemas/series/cartoons/anime,Strange New Worlds Season 3 2025
+instagram_2243,Marketplace,2024-09-11,Jeans,men,red,checks,streetwear,3919,268,7353,India,img_2243.jpg,,Slim fit,cropped,square neck,3/4 sleeve,polyester,3846.67,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_2252,Celebrities,2025-07-26,Jeans,men,yellow,graphic prints,athleisure,3622,287,14207,Europe,img_2252.jpg,,flared,full-length,square neck,puff sleeve,denim,6038.67,franchise,Star Wars New Trilogy 2025
+instagram_2267,Cinema,2024-03-26,Jeans,men,yellow,floral,athleisure,3567,362,8017,Global,img_2267.jpg,,bodycon,cropped,off-shoulder,cap sleeve,blends,3982.0,event - memes,April Fools Viral 2024
+instagram_2281,YouTube,2024-06-02,Jeans,men,pink,floral,formal,1499,236,15092,US,img_2281.jpg,,flared,knee-length,off-shoulder,half sleeve,denim,5609.0,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_2287,YouTube,2025-02-06,Jeans,men,yellow,abstract,streetwear,3825,234,10588,India,img_2287.jpg,,flared,knee-length,polo neck,bell sleeve,jersey,4882.33,cinemas/series/cartoons/anime,Strange New Worlds Season 3 2025
+instagram_2301,YouTube,2024-08-02,Jeans,men,blue,floral,casual,2943,93,31727,Global,img_2301.jpg,,fit,maxi,square neck,half sleeve,viscose,11587.67,books,Pulitzer Feature 2024
+instagram_2304,Marketplace,2024-05-17,Jeans,men,pink,floral,festive,4885,101,15726,Global,img_2304.jpg,,flared,full-length,polo neck,full sleeve,rayon,6904.0,designer launches,Ralph Lauren Spring Collection 2024
+instagram_2324,Cinema,2024-02-16,Jeans,men,beige,graphic prints,athleisure,3648,151,33953,US,img_2324.jpg,,fit,ankle-length,v-neck,bell sleeve,knits,12584.0,event - memes,April Fools Viral 2024
+instagram_2357,YouTube,2024-12-07,Jeans,men,blue,floral,streetwear,2121,493,6645,India,img_2357.jpg,,fit,mini,halter,bell sleeve,viscose,3086.33,designer launches,Zara Designer Collab 2024
+instagram_2366,Marketplace,2024-11-17,Jeans,men,"blue, red",checks,athleisure,534,231,10335,Global,img_2366.jpg,,relaxed fit,knee-length,crew neck,half sleeve,viscose,3700.0,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_2377,YouTube,2024-07-23,Jeans,men,yellow,checks,festive,2955,54,30092,Europe,img_2377.jpg,,straight cut,maxi,boat neck,sleeveless,rayon,11033.67,franchise,Marvel Phase 5 Release 2024
+instagram_2382,Facebook,2024-11-29,Jeans,men,black,tie-dye,athleisure,1099,270,24019,Global,img_2382.jpg,,relaxed fit,ankle-length,crew neck,3/4 sleeve,linen,8462.67,trending memes,Cottagecore Revival Meme 2024
+instagram_2391,Instagram,2024-02-25,Jeans,men,"white, black",floral,festive,5500,204,14758,US,img_2391.jpg,,regular,cropped,off-shoulder,cap sleeve,knits,6820.67,designer launches,Chanel Cruise 2024
+instagram_2408,Celebrities,2024-04-22,Jeans,men,green,abstract,casual,4613,31,35679,Global,img_2408.jpg,,relaxed fit,full-length,boat neck,cap sleeve,blends,13441.0,franchise,Fast X Sequel 2024
+instagram_2414,Instagram,2024-02-01,Jeans,men,beige,tie-dye,streetwear,4193,155,8370,US,img_2414.jpg,,regular,ankle-length,collared,half sleeve,polyester,4239.33,event - political,US Presidential Election 2024
+instagram_2421,Instagram,2024-01-27,Jeans,men,white,stripes,streetwear,5606,196,4330,India,img_2421.jpg,,a-line,cropped,off-shoulder,cap sleeve,knits,3377.33,designer launches,Gucci FW 2024
+instagram_2457,Celebrities,2025-03-26,Jeans,men,black,floral,festive,2467,103,33722,Europe,img_2457.jpg,,relaxed fit,mini,collared,half sleeve,blends,12097.33,event - memes,Super Bowl Halftime Meme 2025
+instagram_2490,Marketplace,2024-12-31,Jeans,men,"pink, blue",solid,streetwear,460,155,35386,Europe,img_2490.jpg,,Slim fit,knee-length,boat neck,bell sleeve,knits,12000.33,designer launches,Gucci FW 2024
+instagram_2510,YouTube,2025-01-22,Jeans,men,red,abstract,athleisure,5838,53,16560,US,img_2510.jpg,,a-line,mini,square neck,bell sleeve,denim,7483.67,designer launches,Dior Haute 2025
+instagram_2528,Celebrities,2024-07-10,Jeans,men,white,floral,streetwear,1722,226,7017,Europe,img_2528.jpg,,regular,full-length,collared,3/4 sleeve,jersey,2988.33,event - political,India State Elections 2024
+instagram_2548,YouTube,2024-06-21,Jeans,men,black,tie-dye,athleisure,6496,405,13003,Europe,img_2548.jpg,,regular,midi,collared,sleeveless,blends,6634.67,event - memes,Oscar Memes 2024
+instagram_2562,Celebrities,2024-02-17,Jeans,men,pink,graphic prints,festive,5225,47,1036,Global,img_2562.jpg,,oversized,knee-length,boat neck,cap sleeve,viscose,2102.67,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_2572,Instagram,2024-03-06,Jeans,men,green,stripes,festive,2417,372,10771,US,img_2572.jpg,,regular,mini,v-neck,bell sleeve,linen,4520.0,trending memes,Vogue Challenge 2024
+instagram_2573,Marketplace,2024-02-04,Jeans,men,pink,checks,casual,4927,185,71633,Global,img_2573.jpg,,relaxed fit,ankle-length,collared,sleeveless,knits,25581.67,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_2583,Celebrities,2024-10-19,Jeans,men,beige,stripes,casual,2001,74,5738,Europe,img_2583.jpg,,straight cut,ankle-length,crew neck,cap sleeve,jersey,2604.33,event - political,US Presidential Election 2024
+instagram_2588,YouTube,2024-01-02,Jeans,men,blue,graphic prints,festive,5244,86,14812,US,img_2588.jpg,,oversized,midi,polo neck,cap sleeve,rayon,6714.0,designer launches,Chanel Cruise 2024
+instagram_2591,YouTube,2024-02-09,Jeans,men,"pink, red",solid,streetwear,5591,92,27244,Europe,img_2591.jpg,,flared,ankle-length,v-neck,sleeveless,cotton,10975.67,franchise,Marvel Phase 5 Release 2024
+instagram_2600,YouTube,2024-05-29,Jeans,men,yellow,stripes,casual,404,304,25914,Europe,img_2600.jpg,,oversized,knee-length,off-shoulder,full sleeve,denim,8874.0,franchise,Fast X Sequel 2024
+instagram_2625,Instagram,2024-03-30,Jeans,men,green,solid,festive,2384,71,26344,Global,img_2625.jpg,,relaxed fit,cropped,crew neck,full sleeve,viscose,9599.67,designer launches,Ralph Lauren Spring Collection 2024
+instagram_2643,Instagram,2024-03-04,Jeans,men,"black, beige, red",checks,streetwear,4375,118,33040,India,img_2643.jpg,,relaxed fit,maxi,square neck,full sleeve,linen,12511.0,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_2646,Celebrities,2024-02-20,Jeans,men,"red, beige, yellow",floral,athleisure,1773,60,35524,Global,img_2646.jpg,,regular,maxi,halter,bell sleeve,blends,12452.33,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_2664,Marketplace,2024-11-26,Jeans,men,black,stripes,athleisure,3681,155,23120,Global,img_2664.jpg,,relaxed fit,knee-length,collared,puff sleeve,denim,8985.33,designer launches,Zara Designer Collab 2024
+instagram_2682,Facebook,2024-09-12,Jeans,men,"black, pink",floral,athleisure,3452,475,45465,India,img_2682.jpg,,oversized,knee-length,v-neck,3/4 sleeve,linen,16464.0,books,Pulitzer Feature 2024
+instagram_2698,Facebook,2024-05-17,Jeans,men,pink,abstract,formal,1358,404,26072,Europe,img_2698.jpg,,flared,midi,square neck,sleeveless,cotton,9278.0,franchise,Marvel Phase 5 Release 2024
+instagram_2723,Marketplace,2025-07-13,Jeans,men,yellow,checks,streetwear,4125,248,9750,US,img_2723.jpg,,relaxed fit,cropped,boat neck,puff sleeve,denim,4707.67,cinemas/series/cartoons/anime,Strange New Worlds Season 3 2025
+instagram_2732,YouTube,2024-07-13,Jeans,men,"green, white",solid,athleisure,233,210,3239,US,img_2732.jpg,,straight cut,maxi,square neck,bell sleeve,rayon,1227.33,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_2807,Facebook,2025-03-18,Jeans,men,beige,graphic prints,festive,1759,273,31206,US,img_2807.jpg,,regular,maxi,boat neck,bell sleeve,knits,11079.33,designer launches,Dior Haute 2025
+instagram_2809,Instagram,2024-09-05,Jeans,men,black,stripes,athleisure,3777,184,8603,US,img_2809.jpg,,relaxed fit,maxi,halter,3/4 sleeve,rayon,4188.0,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_2831,Marketplace,2024-11-28,Jeans,men,pink,abstract,festive,1127,35,13340,Global,img_2831.jpg,,regular,maxi,crew neck,puff sleeve,cotton,4834.0,event - political,India State Elections 2024
+instagram_2832,Marketplace,2024-06-18,Jeans,men,beige,abstract,formal,2549,88,18284,US,img_2832.jpg,,a-line,maxi,collared,full sleeve,viscose,6973.67,franchise,Fast X Sequel 2024
+instagram_2841,Facebook,2024-01-01,Jeans,men,black,tie-dye,streetwear,2733,122,4912,India,img_2841.jpg,,fit,knee-length,halter,full sleeve,knits,2589.0,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_2877,Marketplace,2025-08-11,Jeans,men,yellow,polka dots,athleisure,3044,29,33416,US,img_2877.jpg,,oversized,cropped,crew neck,sleeveless,denim,12163.0,books,Book-to-Film Adaptation 2025
+instagram_2887,Instagram,2024-01-01,Jeans,men,"green, black",abstract,casual,1710,134,10573,India,img_2887.jpg,,regular,mini,off-shoulder,bell sleeve,viscose,4139.0,books,Bestseller Book Tour 2024
+instagram_2890,Cinema,2024-02-11,Jeans,men,red,abstract,streetwear,4283,170,71000,India,img_2890.jpg,,regular,midi,halter,full sleeve,denim,25151.0,books,Bestseller Book Tour 2024
+instagram_2893,Facebook,2024-05-07,Jeans,men,red,floral,festive,1469,688,36478,US,img_2893.jpg,,relaxed fit,mini,boat neck,puff sleeve,polyester,12878.33,franchise,Fast X Sequel 2024
+instagram_2903,YouTube,2024-12-08,Jeans,men,blue,abstract,athleisure,1697,242,14667,Europe,img_2903.jpg,,oversized,full-length,polo neck,half sleeve,cotton,5535.33,designer launches,Gucci FW 2024
+instagram_2918,Cinema,2024-06-05,Jeans,men,yellow,tie-dye,festive,961,142,2196,US,img_2918.jpg,,bodycon,midi,off-shoulder,sleeveless,viscose,1099.67,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_2964,Celebrities,2024-08-21,Jeans,men,"red, yellow",solid,casual,4680,227,23778,Global,img_2964.jpg,,flared,knee-length,off-shoulder,cap sleeve,knits,9561.67,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_2991,Facebook,2024-09-13,Jeans,men,black,solid,festive,1769,286,7541,Global,img_2991.jpg,,straight cut,midi,crew neck,full sleeve,viscose,3198.67,designer launches,Ralph Lauren Spring Collection 2024
+instagram_2996,Facebook,2024-04-12,Jeans,men,green,checks,formal,5936,320,47802,Global,img_2996.jpg,,oversized,maxi,square neck,puff sleeve,jersey,18019.33,books,Bestseller Book Tour 2024
+instagram_3008,Facebook,2024-10-08,Jeans,men,white,checks,formal,2877,183,18063,Global,img_3008.jpg,,Slim fit,knee-length,polo neck,cap sleeve,rayon,7041.0,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_3042,Instagram,2024-08-26,Jeans,men,black,abstract,festive,3873,242,19600,Global,img_3042.jpg,,fit,maxi,polo neck,bell sleeve,jersey,7905.0,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_3049,YouTube,2024-05-01,Jeans,men,beige,animal print,athleisure,1318,54,18018,India,img_3049.jpg,,straight cut,cropped,collared,puff sleeve,rayon,6463.33,books,Bestseller Book Tour 2024
+instagram_3050,Cinema,2024-02-18,Jeans,men,beige,stripes,festive,1851,79,45319,Europe,img_3050.jpg,,a-line,mini,halter,sleeveless,polyester,15749.67,trending memes,Cottagecore Revival Meme 2024
+instagram_3083,Marketplace,2024-06-19,Jeans,men,"red, pink",animal print,festive,1270,55,49448,US,img_3083.jpg,,oversized,midi,crew neck,puff sleeve,linen,16924.33,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_3085,Facebook,2024-02-13,Jeans,men,yellow,tie-dye,streetwear,1938,238,10068,US,img_3085.jpg,,relaxed fit,full-length,polo neck,full sleeve,rayon,4081.33,event - memes,April Fools Viral 2024
+instagram_3090,Instagram,2024-12-26,Jeans,men,red,stripes,athleisure,4116,245,2870,India,img_3090.jpg,,fit,midi,v-neck,bell sleeve,denim,2410.33,trending memes,Distracted Boyfriend Revival
+instagram_3102,Facebook,2024-11-04,Jeans,men,green,tie-dye,festive,3176,457,30093,Global,img_3102.jpg,,fit,maxi,square neck,puff sleeve,rayon,11242.0,trending memes,Distracted Boyfriend Revival
+instagram_3111,Cinema,2024-08-14,Jeans,men,yellow,graphic prints,festive,2045,412,34282,Europe,img_3111.jpg,,flared,cropped,boat neck,puff sleeve,jersey,12246.33,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_3128,Instagram,2025-02-02,Jeans,men,green,checks,formal,1970,32,26890,India,img_3128.jpg,,relaxed fit,mini,boat neck,sleeveless,jersey,9630.67,designer launches,Prada SS 2025
+instagram_3137,Facebook,2024-06-02,Jeans,men,black,animal print,casual,2109,265,13938,India,img_3137.jpg,,a-line,full-length,v-neck,full sleeve,polyester,5437.33,trending memes,Vogue Challenge 2024
+instagram_3151,Facebook,2024-11-16,Jeans,men,pink,checks,athleisure,1757,373,5158,India,img_3151.jpg,,bodycon,cropped,v-neck,full sleeve,blends,2429.33,event - memes,April Fools Viral 2024
+instagram_3201,Celebrities,2024-05-01,Jeans,men,"black, blue",stripes,formal,3759,442,23331,Europe,img_3201.jpg,,flared,ankle-length,halter,cap sleeve,viscose,9177.33,event - memes,Oscar Memes 2024
+instagram_3221,YouTube,2024-10-21,Jeans,men,"yellow, white",floral,casual,2753,3,34767,India,img_3221.jpg,,relaxed fit,maxi,off-shoulder,sleeveless,denim,12507.67,trending memes,Vogue Challenge 2024
+instagram_3228,Instagram,2024-04-03,Jeans,men,"green, beige, blue",animal print,athleisure,2215,274,12126,US,img_3228.jpg,,fit,full-length,square neck,full sleeve,cotton,4871.67,books,Pulitzer Feature 2024
+instagram_3236,YouTube,2024-03-10,Jeans,men,"white, green",polka dots,festive,4315,315,11495,Global,img_3236.jpg,,a-line,knee-length,collared,puff sleeve,blends,5375.0,event - memes,Oscar Memes 2024
+instagram_3278,Marketplace,2024-03-09,Jeans,men,white,polka dots,athleisure,3338,381,20528,Europe,img_3278.jpg,,a-line,cropped,square neck,sleeveless,blends,8082.33,event - political,India State Elections 2024
+instagram_3289,YouTube,2024-10-17,Jeans,men,"beige, pink",stripes,formal,209,240,54975,India,img_3289.jpg,,oversized,cropped,polo neck,3/4 sleeve,rayon,18474.67,designer launches,Ralph Lauren Spring Collection 2024
+instagram_3292,Instagram,2024-01-29,Jeans,men,"beige, blue",polka dots,formal,3812,314,6915,India,img_3292.jpg,,bodycon,maxi,off-shoulder,cap sleeve,jersey,3680.33,event - political,EU Parliament 2024
+instagram_3314,Facebook,2024-05-22,Jeans,men,green,animal print,formal,321,279,27412,US,img_3314.jpg,,bodycon,midi,boat neck,half sleeve,knits,9337.33,trending memes,Vogue Challenge 2024
+instagram_3334,Celebrities,2024-09-28,Jeans,men,"pink, white",polka dots,streetwear,2177,176,11068,US,img_3334.jpg,,bodycon,ankle-length,crew neck,3/4 sleeve,cotton,4473.67,event - memes,Oscar Memes 2024
+instagram_3335,YouTube,2025-01-20,Jeans,men,"white, black",abstract,athleisure,229,104,64426,India,img_3335.jpg,,a-line,knee-length,crew neck,puff sleeve,knits,21586.33,event - memes,Super Bowl Halftime Meme 2025
+instagram_3354,YouTube,2024-12-18,Jeans,men,beige,graphic prints,formal,4908,148,6168,Global,img_3354.jpg,,regular,knee-length,boat neck,bell sleeve,polyester,3741.33,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_3370,Cinema,2025-03-19,Jeans,men,red,animal print,formal,512,74,16105,Europe,img_3370.jpg,,Slim fit,ankle-length,v-neck,cap sleeve,knits,5563.67,trending memes,Galaxy Brain Remix
+instagram_3376,YouTube,2024-09-04,Jeans,men,white,polka dots,casual,119,228,12298,Europe,img_3376.jpg,,flared,knee-length,off-shoulder,sleeveless,viscose,4215.0,event - memes,Oscar Memes 2024
+instagram_3380,Facebook,2024-09-03,Jeans,men,white,animal print,festive,1344,52,59488,US,img_3380.jpg,,flared,cropped,polo neck,puff sleeve,jersey,20294.67,books,Pulitzer Feature 2024
+instagram_3389,Cinema,2024-12-25,Jeans,men,"yellow, red",floral,athleisure,1158,65,2812,India,img_3389.jpg,,fit,ankle-length,boat neck,puff sleeve,knits,1345.0,trending memes,Distracted Boyfriend Revival
+instagram_3395,Celebrities,2024-11-21,Jeans,men,pink,animal print,athleisure,938,106,14394,Europe,img_3395.jpg,,regular,midi,collared,3/4 sleeve,knits,5146.0,trending memes,Cottagecore Revival Meme 2024
+instagram_3396,YouTube,2024-02-24,Jeans,men,black,solid,formal,859,14,19699,Global,img_3396.jpg,,flared,mini,boat neck,half sleeve,jersey,6857.33,event - political,EU Parliament 2024
+instagram_3421,Cinema,2024-01-10,Jeans,men,white,polka dots,casual,3771,245,13253,US,img_3421.jpg,,flared,cropped,square neck,sleeveless,viscose,5756.33,franchise,Fast X Sequel 2024
+instagram_3437,Marketplace,2025-08-26,Jeans,men,yellow,solid,athleisure,1637,419,41308,Global,img_3437.jpg,,bodycon,mini,crew neck,bell sleeve,denim,14454.67,trending memes,Distracted Boyfriend Revival
+instagram_3456,Facebook,2024-07-15,Jeans,men,white,abstract,streetwear,65,436,62685,India,img_3456.jpg,,relaxed fit,knee-length,off-shoulder,full sleeve,knits,21062.0,franchise,Fast X Sequel 2024
+instagram_3492,Celebrities,2024-01-15,Jeans,men,blue,tie-dye,athleisure,4747,168,6431,India,img_3492.jpg,,oversized,ankle-length,halter,puff sleeve,jersey,3782.0,franchise,Fast X Sequel 2024
+instagram_3512,YouTube,2025-02-20,Jeans,men,blue,graphic prints,athleisure,1091,50,16432,US,img_3512.jpg,,bodycon,cropped,collared,puff sleeve,knits,5857.67,franchise,Star Wars New Trilogy 2025
+instagram_3524,Celebrities,2024-06-23,Jeans,men,red,floral,casual,826,207,8484,Europe,img_3524.jpg,,straight cut,cropped,polo neck,half sleeve,cotton,3172.33,event - political,US Presidential Election 2024
+instagram_3531,Celebrities,2024-07-01,Jeans,men,blue,floral,streetwear,1042,36,6565,India,img_3531.jpg,,a-line,knee-length,halter,cap sleeve,denim,2547.67,designer launches,Chanel Cruise 2024
+instagram_3550,Marketplace,2024-03-10,Jeans,men,red,graphic prints,casual,3552,93,4635,US,img_3550.jpg,,relaxed fit,mini,square neck,cap sleeve,linen,2760.0,trending memes,Distracted Boyfriend Revival
+instagram_3553,Celebrities,2025-01-05,Jeans,men,blue,solid,casual,3292,278,7296,US,img_3553.jpg,,fit,midi,v-neck,puff sleeve,knits,3622.0,designer launches,Prada SS 2025
+instagram_3556,YouTube,2024-04-04,Jeans,men,red,animal print,festive,71,170,29848,India,img_3556.jpg,,a-line,cropped,square neck,bell sleeve,linen,10029.67,franchise,Fast X Sequel 2024
+instagram_3568,Facebook,2024-02-06,Jeans,men,red,floral,festive,5006,273,11747,US,img_3568.jpg,,flared,midi,crew neck,bell sleeve,blends,5675.33,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_3574,YouTube,2024-05-23,Jeans,men,blue,abstract,athleisure,3376,133,10346,Global,img_3574.jpg,,flared,cropped,halter,puff sleeve,viscose,4618.33,franchise,Fast X Sequel 2024
+instagram_3581,Cinema,2024-07-30,Jeans,men,pink,solid,festive,3317,119,19955,US,img_3581.jpg,,straight cut,full-length,off-shoulder,half sleeve,cotton,7797.0,trending memes,Distracted Boyfriend Revival
+instagram_3592,YouTube,2024-02-04,Jeans,men,black,checks,festive,7308,8,15385,India,img_3592.jpg,,relaxed fit,knee-length,square neck,sleeveless,knits,7567.0,designer launches,Chanel Cruise 2024
+instagram_3629,YouTube,2025-08-31,Jeans,men,beige,checks,streetwear,798,98,14994,US,img_3629.jpg,,fit,cropped,halter,puff sleeve,cotton,5296.67,designer launches,Prada SS 2025
+instagram_3641,Celebrities,2024-09-12,Jeans,men,black,solid,athleisure,3336,230,28513,US,img_3641.jpg,,a-line,cropped,v-neck,puff sleeve,denim,10693.0,books,Bestseller Book Tour 2024
+instagram_3655,Instagram,2024-10-02,Jeans,men,white,tie-dye,festive,4173,226,26565,Europe,img_3655.jpg,,oversized,full-length,halter,bell sleeve,denim,10321.33,event - political,India State Elections 2024
+instagram_3657,Marketplace,2024-05-16,Jeans,men,red,polka dots,athleisure,688,482,18397,US,img_3657.jpg,,Slim fit,full-length,collared,puff sleeve,linen,6522.33,books,Pulitzer Feature 2024
+instagram_3669,Cinema,2024-08-23,Jeans,men,yellow,floral,athleisure,6977,50,30219,US,img_3669.jpg,,fit,ankle-length,collared,3/4 sleeve,jersey,12415.33,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_3674,Marketplace,2024-07-01,Jeans,men,yellow,abstract,casual,5514,213,26678,India,img_3674.jpg,,regular,mini,v-neck,3/4 sleeve,cotton,10801.67,trending memes,Cottagecore Revival Meme 2024
+instagram_3694,Celebrities,2024-08-31,Jeans,men,beige,animal print,athleisure,1314,202,89538,Europe,img_3694.jpg,,a-line,midi,collared,cap sleeve,rayon,30351.33,event - memes,April Fools Viral 2024
+instagram_3728,Facebook,2024-01-30,Jeans,men,beige,polka dots,casual,3064,104,1570,US,img_3728.jpg,,relaxed fit,full-length,crew neck,puff sleeve,denim,1579.33,trending memes,Vogue Challenge 2024
+instagram_3747,Cinema,2024-01-26,Jeans,men,red,solid,festive,3659,271,6127,US,img_3747.jpg,,Slim fit,maxi,boat neck,half sleeve,jersey,3352.33,designer launches,Chanel Cruise 2024
+instagram_3755,Instagram,2025-04-16,Jeans,men,black,polka dots,casual,7964,254,10274,India,img_3755.jpg,,relaxed fit,knee-length,polo neck,puff sleeve,linen,6164.0,event - memes,Super Bowl Halftime Meme 2025
+instagram_3784,Instagram,2024-01-30,Jeans,men,yellow,checks,festive,337,47,2321,Global,img_3784.jpg,,bodycon,maxi,collared,cap sleeve,viscose,901.67,event - memes,Oscar Memes 2024
+instagram_3828,Cinema,2024-12-04,Jeans,men,"beige, blue, green",stripes,streetwear,5987,92,15519,US,img_3828.jpg,,fit,maxi,polo neck,sleeveless,jersey,7199.33,event - political,US Presidential Election 2024
+instagram_3829,Instagram,2024-06-20,Jeans,men,"green, pink",animal print,formal,2206,277,3245,Global,img_3829.jpg,,oversized,maxi,boat neck,half sleeve,blends,1909.33,designer launches,Ralph Lauren Spring Collection 2024
+instagram_3839,Cinema,2025-04-21,Jeans,men,blue,stripes,casual,5519,243,30094,Global,img_3839.jpg,,fit,full-length,square neck,bell sleeve,blends,11952.0,books,Book-to-Film Adaptation 2025
+instagram_3927,Marketplace,2024-11-09,Jeans,men,"green, red, beige",checks,formal,142,42,45615,US,img_3927.jpg,,regular,maxi,boat neck,full sleeve,knits,15266.33,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_3929,Cinema,2024-03-31,Jeans,men,pink,solid,athleisure,1965,110,47924,India,img_3929.jpg,,flared,full-length,square neck,half sleeve,knits,16666.33,event - memes,April Fools Viral 2024
+instagram_3938,Cinema,2024-02-01,Jeans,men,yellow,animal print,streetwear,5865,43,27231,Global,img_3938.jpg,,straight cut,midi,off-shoulder,cap sleeve,blends,11046.33,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_3940,Marketplace,2025-03-25,Jeans,men,"black, yellow, beige",animal print,festive,4072,211,19534,US,img_3940.jpg,,oversized,mini,boat neck,3/4 sleeve,knits,7939.0,books,Book-to-Film Adaptation 2025
+instagram_3952,Instagram,2025-03-22,Jeans,men,pink,floral,formal,5724,352,26193,Europe,img_3952.jpg,,bodycon,knee-length,v-neck,full sleeve,viscose,10756.33,cinemas/series/cartoons/anime,Strange New Worlds Season 3 2025
+instagram_3957,Instagram,2024-04-17,Jeans,men,green,stripes,athleisure,6262,70,14541,Global,img_3957.jpg,,regular,mini,square neck,sleeveless,blends,6957.67,designer launches,Zara Designer Collab 2024
+instagram_3961,Instagram,2025-08-09,Jeans,men,yellow,solid,athleisure,193,148,13184,US,img_3961.jpg,,Slim fit,cropped,v-neck,cap sleeve,polyester,4508.33,books,Book-to-Film Adaptation 2025
+instagram_3986,Cinema,2024-07-19,Jeans,men,black,abstract,athleisure,3853,20,17747,US,img_3986.jpg,,flared,knee-length,boat neck,3/4 sleeve,rayon,7206.67,event - memes,Oscar Memes 2024
+instagram_3987,Celebrities,2024-03-16,Jeans,men,blue,animal print,athleisure,1215,206,37351,India,img_3987.jpg,,fit,mini,crew neck,full sleeve,cotton,12924.0,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_3989,Cinema,2024-11-05,Jeans,men,pink,animal print,streetwear,462,118,8897,Global,img_3989.jpg,,bodycon,knee-length,halter,sleeveless,cotton,3159.0,event - political,EU Parliament 2024
+instagram_4002,YouTube,2024-01-15,Jeans,men,pink,abstract,streetwear,5085,229,17243,Global,img_4002.jpg,,fit,ankle-length,v-neck,cap sleeve,knits,7519.0,designer launches,Chanel Cruise 2024
+instagram_4003,Facebook,2024-12-12,Jeans,men,green,checks,athleisure,3420,212,14409,Europe,img_4003.jpg,,straight cut,full-length,halter,half sleeve,denim,6013.67,event - political,US Presidential Election 2024
+instagram_4005,Marketplace,2025-04-07,Jeans,men,white,abstract,athleisure,451,327,41089,US,img_4005.jpg,,flared,mini,collared,full sleeve,denim,13955.67,event - memes,Super Bowl Halftime Meme 2025
+instagram_4007,YouTube,2024-04-29,Jeans,men,yellow,animal print,casual,728,201,17861,India,img_4007.jpg,,flared,ankle-length,collared,sleeveless,blends,6263.33,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_4009,Celebrities,2024-11-10,Jeans,men,yellow,tie-dye,athleisure,277,689,6373,Europe,img_4009.jpg,,fit,knee-length,polo neck,full sleeve,blends,2446.33,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_4039,Celebrities,2024-09-09,Jeans,men,beige,checks,casual,7675,467,55088,Global,img_4039.jpg,,straight cut,full-length,off-shoulder,bell sleeve,denim,21076.67,event - political,EU Parliament 2024
+instagram_4042,Instagram,2024-06-15,Jeans,men,green,animal print,athleisure,2460,513,49427,US,img_4042.jpg,,bodycon,maxi,v-neck,3/4 sleeve,jersey,17466.67,trending memes,Cottagecore Revival Meme 2024
+instagram_4054,Instagram,2025-06-20,Jeans,men,yellow,floral,formal,701,15,25310,Global,img_4054.jpg,,oversized,full-length,halter,3/4 sleeve,viscose,8675.33,designer launches,Dior Haute 2025
+instagram_4077,Facebook,2024-12-11,Jeans,men,red,solid,athleisure,7197,275,1785,Global,img_4077.jpg,,bodycon,mini,polo neck,full sleeve,cotton,3085.67,designer launches,Zara Designer Collab 2024
+instagram_4093,YouTube,2024-11-25,Jeans,men,yellow,tie-dye,streetwear,585,12,21165,Europe,img_4093.jpg,,flared,maxi,halter,cap sleeve,knits,7254.0,trending memes,Galaxy Brain Remix
+instagram_4126,Celebrities,2024-08-06,Jeans,men,"beige, white, green",tie-dye,athleisure,5975,207,18376,US,img_4126.jpg,,flared,mini,off-shoulder,cap sleeve,knits,8186.0,event - political,EU Parliament 2024
+instagram_4136,Facebook,2024-03-29,Jeans,men,green,abstract,festive,138,157,2201,US,img_4136.jpg,,flared,cropped,square neck,puff sleeve,polyester,832.0,event - memes,April Fools Viral 2024
+instagram_4160,Cinema,2024-09-12,Jeans,men,blue,checks,formal,9,122,10,Global,img_4160.jpg,,flared,knee-length,crew neck,3/4 sleeve,viscose,47.0,event - memes,April Fools Viral 2024
+instagram_4167,Marketplace,2024-02-15,Jeans,men,blue,floral,festive,1567,405,44239,Global,img_4167.jpg,,oversized,knee-length,polo neck,full sleeve,polyester,15403.67,event - political,US Presidential Election 2024
+instagram_4175,YouTube,2024-01-17,Jeans,men,white,floral,festive,2372,470,31474,Global,img_4175.jpg,,flared,midi,crew neck,puff sleeve,knits,11438.67,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_4194,YouTube,2024-10-07,Jeans,men,pink,stripes,athleisure,543,299,46610,India,img_4194.jpg,,straight cut,cropped,halter,3/4 sleeve,jersey,15817.33,franchise,Marvel Phase 5 Release 2024
+instagram_4200,Instagram,2024-11-22,Jeans,men,"beige, white, yellow",polka dots,formal,7882,180,46392,India,img_4200.jpg,,straight cut,cropped,boat neck,3/4 sleeve,jersey,18151.33,designer launches,Zara Designer Collab 2024
+instagram_4259,Instagram,2024-12-21,Jeans,men,yellow,tie-dye,streetwear,663,207,18340,Europe,img_4259.jpg,,Slim fit,midi,polo neck,cap sleeve,denim,6403.33,franchise,Fast X Sequel 2024
+instagram_4297,Celebrities,2024-09-12,Jeans,men,blue,checks,streetwear,2397,365,16583,Europe,img_4297.jpg,,bodycon,knee-length,v-neck,full sleeve,rayon,6448.33,event - political,US Presidential Election 2024
+instagram_4300,YouTube,2024-02-18,Jeans,men,red,solid,streetwear,3124,160,26159,India,img_4300.jpg,,a-line,mini,boat neck,3/4 sleeve,blends,9814.33,trending memes,Vogue Challenge 2024
+instagram_4315,Cinema,2024-06-06,Jeans,men,"pink, green",floral,formal,5192,237,10347,US,img_4315.jpg,,relaxed fit,full-length,halter,3/4 sleeve,linen,5258.67,event - memes,April Fools Viral 2024
+instagram_4317,Instagram,2024-03-06,Jeans,men,"black, yellow",graphic prints,casual,62,42,29801,Global,img_4317.jpg,,relaxed fit,cropped,crew neck,full sleeve,polyester,9968.33,franchise,Fast X Sequel 2024
+instagram_4321,Marketplace,2024-10-19,Jeans,men,blue,abstract,formal,3562,268,7914,Europe,img_4321.jpg,,straight cut,full-length,polo neck,sleeveless,cotton,3914.67,trending memes,Cottagecore Revival Meme 2024
+instagram_4360,Cinema,2024-04-06,Jeans,men,black,graphic prints,streetwear,990,72,15514,Europe,img_4360.jpg,,relaxed fit,mini,halter,full sleeve,viscose,5525.33,event - political,India State Elections 2024
+instagram_4382,Facebook,2024-02-12,Jeans,men,pink,abstract,festive,5828,42,43787,India,img_4382.jpg,,relaxed fit,knee-length,collared,sleeveless,denim,16552.33,books,Bestseller Book Tour 2024
+instagram_4390,Facebook,2024-05-14,Jeans,men,"beige, pink",tie-dye,athleisure,4505,79,59395,Global,img_4390.jpg,,straight cut,cropped,collared,half sleeve,cotton,21326.33,trending memes,Galaxy Brain Remix
+instagram_4399,Celebrities,2025-03-05,Jeans,men,white,animal print,streetwear,556,269,48454,India,img_4399.jpg,,Slim fit,cropped,crew neck,puff sleeve,knits,16426.33,franchise,Star Wars New Trilogy 2025
+instagram_4402,Cinema,2025-07-16,Jeans,men,black,checks,festive,3158,241,12141,Global,img_4402.jpg,,straight cut,knee-length,crew neck,half sleeve,knits,5180.0,event - memes,Super Bowl Halftime Meme 2025
+instagram_4405,Instagram,2024-11-13,Jeans,men,"blue, green",polka dots,formal,2833,380,21684,US,img_4405.jpg,,oversized,maxi,square neck,puff sleeve,viscose,8299.0,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_4420,Marketplace,2025-01-06,Jeans,men,black,stripes,festive,1317,127,27540,India,img_4420.jpg,,straight cut,midi,crew neck,half sleeve,viscose,9661.33,cinemas/series/cartoons/anime,Strange New Worlds Season 3 2025
+instagram_4423,Facebook,2025-04-30,Jeans,men,black,abstract,streetwear,664,167,29848,Global,img_4423.jpg,,Slim fit,maxi,crew neck,half sleeve,polyester,10226.33,books,Book-to-Film Adaptation 2025
+instagram_4446,Celebrities,2024-12-07,Jeans,men,"white, green",stripes,casual,2133,239,24058,Global,img_4446.jpg,,flared,ankle-length,boat neck,3/4 sleeve,denim,8810.0,event - political,India State Elections 2024
+instagram_4461,Marketplace,2024-03-18,Jeans,men,red,abstract,formal,1785,171,11324,Europe,img_4461.jpg,,flared,ankle-length,halter,puff sleeve,viscose,4426.67,franchise,Marvel Phase 5 Release 2024
+instagram_4478,YouTube,2024-11-19,Jeans,men,black,animal print,formal,3039,108,7940,Global,img_4478.jpg,,Slim fit,mini,off-shoulder,cap sleeve,linen,3695.67,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_4493,Facebook,2024-06-01,Jeans,men,yellow,polka dots,formal,306,92,7831,Europe,img_4493.jpg,,a-line,knee-length,collared,full sleeve,blends,2743.0,trending memes,Cottagecore Revival Meme 2024
+instagram_4515,Cinema,2024-06-17,Jeans,men,white,polka dots,festive,1551,207,31614,Europe,img_4515.jpg,,Slim fit,cropped,collared,half sleeve,rayon,11124.0,franchise,Fast X Sequel 2024
+instagram_4519,Celebrities,2024-10-21,Jeans,men,white,polka dots,athleisure,4419,133,13868,US,img_4519.jpg,,Slim fit,ankle-length,collared,bell sleeve,viscose,6140.0,designer launches,Chanel Cruise 2024
+instagram_4530,Celebrities,2024-03-20,Jeans,men,red,tie-dye,formal,4269,618,13299,US,img_4530.jpg,,Slim fit,cropped,v-neck,sleeveless,viscose,6062.0,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_4545,Celebrities,2024-08-22,Jeans,men,"yellow, green",graphic prints,streetwear,5191,178,16006,Global,img_4545.jpg,,straight cut,ankle-length,crew neck,cap sleeve,cotton,7125.0,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_4546,Celebrities,2024-03-26,Jeans,men,black,polka dots,athleisure,910,32,14222,India,img_4546.jpg,,bodycon,cropped,collared,bell sleeve,linen,5054.67,books,Bestseller Book Tour 2024
+instagram_4548,Instagram,2025-06-05,Jeans,men,"green, blue",tie-dye,formal,1906,235,10450,Global,img_4548.jpg,,fit,maxi,off-shoulder,half sleeve,viscose,4197.0,designer launches,Dior Haute 2025
+instagram_4563,Instagram,2024-01-02,Jeans,men,"pink, yellow, beige",checks,formal,3011,17,63404,US,img_4563.jpg,,relaxed fit,full-length,boat neck,half sleeve,rayon,22144.0,designer launches,Chanel Cruise 2024
+instagram_4571,YouTube,2024-04-21,Jeans,men,white,solid,casual,4254,116,52481,Global,img_4571.jpg,,fit,full-length,crew neck,half sleeve,polyester,18950.33,event - political,US Presidential Election 2024
+instagram_4584,Marketplace,2024-09-10,Jeans,men,yellow,animal print,streetwear,2034,219,21073,Global,img_4584.jpg,,bodycon,midi,crew neck,half sleeve,denim,7775.33,books,Pulitzer Feature 2024
+instagram_4589,Marketplace,2024-09-03,Jeans,men,beige,tie-dye,formal,4527,308,12400,US,img_4589.jpg,,bodycon,full-length,collared,half sleeve,jersey,5745.0,trending memes,Vogue Challenge 2024
+instagram_4590,Marketplace,2025-01-05,Jeans,men,yellow,solid,casual,4850,17,38333,Europe,img_4590.jpg,,relaxed fit,midi,off-shoulder,bell sleeve,linen,14400.0,trending memes,Distracted Boyfriend Revival
+instagram_4613,Cinema,2025-02-20,Jeans,men,blue,stripes,formal,1899,38,30586,Global,img_4613.jpg,,bodycon,full-length,crew neck,bell sleeve,denim,10841.0,trending memes,Galaxy Brain Remix
+instagram_4615,Cinema,2025-04-14,Jeans,men,red,checks,athleisure,1000,90,20867,Europe,img_4615.jpg,,flared,maxi,boat neck,3/4 sleeve,polyester,7319.0,event - memes,Super Bowl Halftime Meme 2025
+instagram_4625,Instagram,2024-09-27,Jeans,men,white,abstract,festive,1958,33,70254,Europe,img_4625.jpg,,straight cut,maxi,off-shoulder,puff sleeve,blends,24081.67,trending memes,Galaxy Brain Remix
+instagram_4628,YouTube,2024-02-03,Jeans,men,yellow,checks,streetwear,8850,356,14259,US,img_4628.jpg,,fit,full-length,boat neck,bell sleeve,blends,7821.67,books,Pulitzer Feature 2024
+instagram_4647,Facebook,2024-05-22,Jeans,men,white,floral,formal,2021,638,342,Europe,img_4647.jpg,,relaxed fit,midi,halter,puff sleeve,knits,1000.33,designer launches,Ralph Lauren Spring Collection 2024
+instagram_4653,Celebrities,2024-11-03,Jeans,men,green,animal print,formal,4791,107,31226,US,img_4653.jpg,,bodycon,maxi,polo neck,cap sleeve,blends,12041.33,franchise,Marvel Phase 5 Release 2024
+instagram_4655,Marketplace,2024-10-04,Jeans,men,white,polka dots,streetwear,3979,285,4828,Global,img_4655.jpg,,relaxed fit,ankle-length,halter,full sleeve,linen,3030.67,event - political,US Presidential Election 2024
+instagram_4656,Marketplace,2024-07-23,Jeans,men,pink,checks,formal,1240,231,40536,Global,img_4656.jpg,,fit,ankle-length,crew neck,bell sleeve,polyester,14002.33,event - political,US Presidential Election 2024
+instagram_4663,Celebrities,2025-01-18,Jeans,men,yellow,solid,streetwear,3769,291,88540,US,img_4663.jpg,,regular,ankle-length,polo neck,bell sleeve,denim,30866.67,designer launches,Prada SS 2025
+instagram_4676,Cinema,2024-10-23,Jeans,men,yellow,polka dots,casual,398,9,2929,Europe,img_4676.jpg,,relaxed fit,maxi,square neck,sleeveless,knits,1112.0,designer launches,Zara Designer Collab 2024
+instagram_4688,YouTube,2024-05-16,Jeans,men,green,stripes,festive,1041,144,10589,US,img_4688.jpg,,bodycon,ankle-length,boat neck,3/4 sleeve,viscose,3924.67,event - political,EU Parliament 2024
+instagram_4694,Cinema,2025-02-10,Jeans,men,beige,polka dots,festive,945,349,7999,India,img_4694.jpg,,straight cut,cropped,square neck,bell sleeve,rayon,3097.67,cinemas/series/cartoons/anime,Strange New Worlds Season 3 2025
+instagram_4724,YouTube,2024-11-11,Jeans,men,beige,graphic prints,formal,2454,29,46160,US,img_4724.jpg,,flared,knee-length,halter,full sleeve,denim,16214.33,event - memes,April Fools Viral 2024
+instagram_4741,Cinema,2024-05-24,Jeans,men,red,solid,casual,4505,501,11570,Global,img_4741.jpg,,oversized,full-length,boat neck,full sleeve,rayon,5525.33,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_4742,Instagram,2024-10-08,Jeans,men,blue,graphic prints,festive,7748,533,58627,Global,img_4742.jpg,,regular,ankle-length,polo neck,puff sleeve,polyester,22302.67,designer launches,Chanel Cruise 2024
+instagram_4745,Facebook,2024-07-22,Jeans,men,red,abstract,streetwear,6709,9,7174,Global,img_4745.jpg,,bodycon,mini,halter,full sleeve,jersey,4630.67,event - memes,April Fools Viral 2024
+instagram_4764,YouTube,2024-03-02,Jeans,men,black,graphic prints,festive,749,605,11370,Europe,img_4764.jpg,,flared,maxi,polo neck,3/4 sleeve,rayon,4241.33,event - memes,Oscar Memes 2024
+instagram_4796,Facebook,2025-08-12,Jeans,men,pink,polka dots,athleisure,4279,64,11151,US,img_4796.jpg,,regular,maxi,v-neck,cap sleeve,polyester,5164.67,event - memes,Super Bowl Halftime Meme 2025
+instagram_4809,Celebrities,2025-02-04,Jeans,men,pink,graphic prints,festive,2332,165,13600,Global,img_4809.jpg,,relaxed fit,knee-length,collared,bell sleeve,cotton,5365.67,designer launches,Prada SS 2025
+instagram_4826,YouTube,2024-11-22,Jeans,men,white,animal print,casual,2046,92,19945,India,img_4826.jpg,,flared,ankle-length,collared,half sleeve,denim,7361.0,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_4831,Celebrities,2024-09-17,Jeans,men,beige,polka dots,festive,2537,19,38164,Europe,img_4831.jpg,,regular,knee-length,square neck,full sleeve,linen,13573.33,trending memes,Distracted Boyfriend Revival
+instagram_4833,Facebook,2024-01-06,Jeans,men,"green, white",checks,festive,257,202,9868,India,img_4833.jpg,,fit,mini,boat neck,sleeveless,blends,3442.33,franchise,Fast X Sequel 2024
+instagram_4849,Cinema,2024-11-08,Jeans,men,pink,polka dots,athleisure,5291,158,4011,Europe,img_4849.jpg,,a-line,knee-length,collared,bell sleeve,rayon,3153.33,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_4875,Cinema,2025-05-31,Jeans,men,"pink, blue",animal print,festive,2071,169,16086,Europe,img_4875.jpg,,fit,cropped,off-shoulder,cap sleeve,cotton,6108.67,cinemas/series/cartoons/anime,Strange New Worlds Season 3 2025
+instagram_4885,Celebrities,2024-04-03,Jeans,men,red,abstract,streetwear,2376,529,4121,Europe,img_4885.jpg,,oversized,ankle-length,off-shoulder,3/4 sleeve,linen,2342.0,trending memes,Cottagecore Revival Meme 2024
+instagram_4922,Facebook,2025-02-26,Jeans,men,pink,abstract,streetwear,3063,50,27881,Global,img_4922.jpg,,fit,knee-length,off-shoulder,puff sleeve,jersey,10331.33,designer launches,Prada SS 2025
+instagram_4929,Facebook,2024-11-11,Jeans,men,blue,polka dots,festive,4585,617,15152,Global,img_4929.jpg,,fit,mini,square neck,full sleeve,jersey,6784.67,event - memes,Oscar Memes 2024
+instagram_4936,Celebrities,2024-10-23,Jeans,men,black,stripes,streetwear,4732,76,21129,US,img_4936.jpg,,bodycon,full-length,polo neck,sleeveless,denim,8645.67,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_4956,Marketplace,2024-02-03,Jeans,men,red,checks,festive,848,50,2970,US,img_4956.jpg,,straight cut,mini,polo neck,puff sleeve,cotton,1289.33,designer launches,Gucci FW 2024
+instagram_4959,YouTube,2025-08-19,Jeans,men,pink,animal print,festive,4442,215,5265,India,img_4959.jpg,,flared,mini,polo neck,sleeveless,viscose,3307.33,franchise,Star Wars New Trilogy 2025
+instagram_4968,Instagram,2024-11-16,Jeans,men,"red, black",polka dots,formal,1118,131,30634,India,img_4968.jpg,,straight cut,knee-length,boat neck,sleeveless,jersey,10627.67,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_4975,Celebrities,2024-12-04,Jeans,men,red,polka dots,formal,4586,325,45774,India,img_4975.jpg,,bodycon,ankle-length,halter,3/4 sleeve,linen,16895.0,trending memes,Galaxy Brain Remix
+instagram_4982,YouTube,2024-11-05,Jeans,men,"pink, red",stripes,casual,488,22,45295,Global,img_4982.jpg,,a-line,full-length,boat neck,cap sleeve,cotton,15268.33,designer launches,Chanel Cruise 2024
+instagram_4983,Cinema,2024-08-18,Jeans,men,pink,graphic prints,casual,865,260,43046,Global,img_4983.jpg,,oversized,maxi,polo neck,cap sleeve,polyester,14723.67,books,Bestseller Book Tour 2024
+instagram_4991,YouTube,2024-07-18,Jeans,men,red,solid,athleisure,2204,232,2558,US,img_4991.jpg,,oversized,maxi,halter,full sleeve,jersey,1664.67,cinemas/series/cartoons/anime,Dune 2 Release 2024
+instagram_5002,Celebrities,2025-01-20,Jeans,men,yellow,floral,festive,6205,475,38886,India,img_5002.jpg,,a-line,midi,collared,3/4 sleeve,linen,15188.67,franchise,Star Wars New Trilogy 2025
+instagram_5023,Celebrities,2024-02-04,Jeans,men,green,tie-dye,athleisure,1317,241,19607,Global,img_5023.jpg,,straight cut,midi,crew neck,sleeveless,jersey,7055.0,designer launches,Gucci FW 2024
+instagram_5024,Facebook,2024-05-03,Jeans,men,red,abstract,casual,1041,142,10590,Europe,img_5024.jpg,,oversized,maxi,crew neck,3/4 sleeve,jersey,3924.33,franchise,Fast X Sequel 2024
+instagram_5026,YouTube,2024-08-20,Jeans,men,"red, pink",checks,formal,7824,154,28012,Global,img_5026.jpg,,straight cut,mini,collared,3/4 sleeve,linen,11996.67,designer launches,Gucci FW 2024
+instagram_5040,Marketplace,2024-05-07,Jeans,men,blue,stripes,formal,1431,98,70489,India,img_5040.jpg,,Slim fit,mini,square neck,3/4 sleeve,viscose,24006.0,books,Bestseller Book Tour 2024
+instagram_5046,Instagram,2024-02-21,Jeans,men,blue,polka dots,casual,3905,200,22867,India,img_5046.jpg,,straight cut,ankle-length,polo neck,cap sleeve,rayon,8990.67,trending memes,Vogue Challenge 2024
+instagram_5052,Facebook,2024-09-25,Jeans,men,beige,checks,streetwear,1836,240,6441,US,img_5052.jpg,,fit,mini,square neck,sleeveless,rayon,2839.0,event - political,US Presidential Election 2024
+instagram_5056,Celebrities,2025-07-09,Jeans,men,yellow,checks,formal,2953,189,38498,Europe,img_5056.jpg,,regular,maxi,square neck,half sleeve,polyester,13880.0,books,Book-to-Film Adaptation 2025
+instagram_5064,Facebook,2024-08-18,Jeans,men,red,graphic prints,streetwear,7238,223,20141,Global,img_5064.jpg,,fit,maxi,collared,full sleeve,cotton,9200.67,franchise,Fast X Sequel 2024
+instagram_5080,YouTube,2025-05-23,Jeans,men,white,solid,streetwear,1464,320,21581,Global,img_5080.jpg,,bodycon,knee-length,square neck,full sleeve,viscose,7788.33,cinemas/series/cartoons/anime,Strange New Worlds Season 3 2025
+instagram_5090,Marketplace,2024-12-25,Jeans,men,"beige, pink",graphic prints,casual,322,178,12095,Global,img_5090.jpg,,Slim fit,full-length,v-neck,full sleeve,jersey,4198.33,trending memes,Galaxy Brain Remix
+instagram_5092,Facebook,2024-10-23,Jeans,men,white,abstract,casual,4882,169,52001,Global,img_5092.jpg,,fit,maxi,polo neck,sleeveless,linen,19017.33,trending memes,Cottagecore Revival Meme 2024
+instagram_5106,Celebrities,2024-10-03,Jeans,men,yellow,abstract,athleisure,3064,379,20594,Global,img_5106.jpg,,bodycon,mini,collared,bell sleeve,cotton,8012.33,franchise,Fast X Sequel 2024
+instagram_5111,YouTube,2024-05-09,Jeans,men,yellow,abstract,festive,3919,48,10833,Europe,img_5111.jpg,,straight cut,knee-length,collared,bell sleeve,polyester,4933.33,event - political,India State Elections 2024
+instagram_5112,Cinema,2024-07-01,Jeans,men,green,abstract,casual,1870,90,14471,Global,img_5112.jpg,,a-line,maxi,square neck,sleeveless,jersey,5477.0,franchise,Marvel Phase 5 Release 2024
+instagram_5146,Instagram,2024-10-12,Jeans,men,blue,checks,streetwear,4993,258,3490,Global,img_5146.jpg,,oversized,full-length,off-shoulder,3/4 sleeve,knits,2913.67,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_5157,Facebook,2025-07-06,Jeans,men,white,graphic prints,streetwear,2318,98,23591,Europe,img_5157.jpg,,a-line,midi,polo neck,cap sleeve,blends,8669.0,books,Book-to-Film Adaptation 2025
+instagram_5161,Cinema,2024-11-12,Jeans,men,yellow,graphic prints,casual,2252,595,20249,Global,img_5161.jpg,,relaxed fit,maxi,square neck,half sleeve,linen,7698.67,event - political,India State Elections 2024
+instagram_5167,Facebook,2024-02-04,Jeans,men,pink,solid,formal,344,72,28019,Global,img_5167.jpg,,fit,knee-length,boat neck,cap sleeve,viscose,9478.33,trending memes,Cottagecore Revival Meme 2024
+instagram_5172,Cinema,2024-10-06,Jeans,men,blue,floral,streetwear,3057,51,12267,Global,img_5172.jpg,,a-line,cropped,collared,puff sleeve,knits,5125.0,designer launches,Ralph Lauren Spring Collection 2024
+instagram_5178,Celebrities,2024-05-23,Jeans,men,blue,solid,athleisure,1845,229,9236,Global,img_5178.jpg,,fit,ankle-length,halter,sleeveless,polyester,3770.0,event - political,EU Parliament 2024
+instagram_5191,Cinema,2024-11-21,Jeans,men,yellow,graphic prints,festive,9700,101,18127,Europe,img_5191.jpg,,regular,maxi,square neck,full sleeve,denim,9309.33,designer launches,Gucci FW 2024
+instagram_5200,Instagram,2024-05-31,Jeans,men,red,stripes,casual,4493,61,22017,Europe,img_5200.jpg,,straight cut,mini,boat neck,cap sleeve,knits,8857.0,designer launches,Ralph Lauren Spring Collection 2024
+instagram_5208,Cinema,2024-07-04,Jeans,men,beige,checks,casual,2508,90,8968,India,img_5208.jpg,,Slim fit,full-length,collared,sleeveless,polyester,3855.33,books,Bestseller Book Tour 2024
+instagram_5230,Instagram,2024-06-02,Jeans,men,black,floral,casual,3426,95,49498,Global,img_5230.jpg,,Slim fit,full-length,v-neck,3/4 sleeve,linen,17673.0,trending memes,Vogue Challenge 2024
+instagram_5263,Instagram,2024-06-19,Jeans,men,blue,polka dots,casual,875,51,27271,US,img_5263.jpg,,flared,full-length,off-shoulder,sleeveless,denim,9399.0,trending memes,Vogue Challenge 2024
+instagram_5274,Celebrities,2025-01-21,Jeans,men,blue,stripes,streetwear,4140,149,31534,US,img_5274.jpg,,fit,knee-length,off-shoulder,puff sleeve,viscose,11941.0,books,Book-to-Film Adaptation 2025
+instagram_5293,Cinema,2024-05-24,Jeans,men,beige,checks,festive,673,238,18867,Europe,img_5293.jpg,,Slim fit,full-length,halter,cap sleeve,knits,6592.67,designer launches,Gucci FW 2024
+instagram_5297,Cinema,2024-06-07,Jeans,men,red,stripes,streetwear,981,164,39088,Global,img_5297.jpg,,Slim fit,cropped,off-shoulder,bell sleeve,linen,13411.0,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_5301,Facebook,2025-06-16,Jeans,men,pink,floral,streetwear,1830,108,40264,Europe,img_5301.jpg,,straight cut,ankle-length,collared,bell sleeve,viscose,14067.33,books,Book-to-Film Adaptation 2025
+instagram_5347,Marketplace,2024-11-08,Jeans,men,"white, green, pink",stripes,festive,464,39,53751,US,img_5347.jpg,,bodycon,full-length,crew neck,half sleeve,rayon,18084.67,event - memes,April Fools Viral 2024
+instagram_5349,Facebook,2024-03-06,Jeans,men,beige,abstract,festive,1773,433,19505,Europe,img_5349.jpg,,oversized,midi,polo neck,sleeveless,linen,7237.0,trending memes,Galaxy Brain Remix
+instagram_5366,Instagram,2024-11-30,Jeans,men,red,polka dots,formal,4238,296,46258,Global,img_5366.jpg,,oversized,knee-length,v-neck,3/4 sleeve,rayon,16930.67,trending memes,Galaxy Brain Remix
+instagram_5380,YouTube,2024-11-24,Jeans,men,"white, yellow",tie-dye,formal,4329,177,21722,India,img_5380.jpg,,oversized,cropped,v-neck,bell sleeve,denim,8742.67,franchise,Fast X Sequel 2024
+instagram_5390,Marketplace,2025-03-21,Jeans,men,red,tie-dye,streetwear,579,219,6287,India,img_5390.jpg,,straight cut,ankle-length,v-neck,full sleeve,viscose,2361.67,trending memes,Galaxy Brain Remix
+instagram_5394,Cinema,2024-08-29,Jeans,men,pink,polka dots,formal,1006,10,30825,US,img_5394.jpg,,oversized,midi,off-shoulder,sleeveless,polyester,10613.67,event - memes,Oscar Memes 2024
+instagram_5403,Cinema,2024-01-02,Jeans,men,"pink, red, beige",solid,streetwear,8841,195,3479,US,img_5403.jpg,,flared,maxi,v-neck,sleeveless,linen,4171.67,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_5404,Marketplace,2024-06-28,Jeans,men,red,stripes,festive,1762,300,6905,India,img_5404.jpg,,fit,ankle-length,off-shoulder,sleeveless,rayon,2989.0,franchise,Marvel Phase 5 Release 2024
+instagram_5407,Instagram,2024-12-27,Jeans,men,blue,solid,streetwear,2897,140,11426,US,img_5407.jpg,,oversized,ankle-length,polo neck,full sleeve,jersey,4821.0,designer launches,Gucci FW 2024
+instagram_5410,Celebrities,2024-04-06,Jeans,men,white,abstract,athleisure,1241,270,24616,US,img_5410.jpg,,regular,full-length,polo neck,sleeveless,blends,8709.0,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_5421,Facebook,2024-10-26,Jeans,men,pink,animal print,festive,1553,393,8630,Europe,img_5421.jpg,,regular,midi,collared,sleeveless,blends,3525.33,trending memes,Vogue Challenge 2024
+instagram_5445,Facebook,2024-12-02,Jeans,men,"beige, yellow",solid,athleisure,7832,231,21096,India,img_5445.jpg,,a-line,mini,halter,half sleeve,viscose,9719.67,trending memes,Distracted Boyfriend Revival
+instagram_5459,Cinema,2024-01-20,Jeans,men,"beige, green",checks,athleisure,3532,220,50084,US,img_5459.jpg,,oversized,mini,off-shoulder,cap sleeve,jersey,17945.33,franchise,Marvel Phase 5 Release 2024
+instagram_5465,Cinema,2024-12-06,Jeans,men,blue,solid,casual,2125,40,37620,Europe,img_5465.jpg,,bodycon,full-length,crew neck,half sleeve,jersey,13261.67,franchise,Fast X Sequel 2024
+instagram_5471,Celebrities,2024-01-30,Jeans,men,blue,stripes,athleisure,426,19,25259,India,img_5471.jpg,,Slim fit,full-length,crew neck,cap sleeve,linen,8568.0,franchise,Fast X Sequel 2024
+instagram_5484,Facebook,2024-06-22,Jeans,men,"red, green, blue",animal print,streetwear,1405,90,11039,Global,img_5484.jpg,,fit,mini,crew neck,puff sleeve,viscose,4178.0,event - memes,Oscar Memes 2024
+instagram_5485,Facebook,2024-03-26,Jeans,men,pink,stripes,athleisure,2070,497,2768,US,img_5485.jpg,,relaxed fit,cropped,crew neck,cap sleeve,knits,1778.33,trending memes,Cottagecore Revival Meme 2024
+instagram_5486,YouTube,2025-01-08,Jeans,men,pink,animal print,formal,2640,148,3678,Europe,img_5486.jpg,,bodycon,ankle-length,boat neck,puff sleeve,polyester,2155.33,franchise,Star Wars New Trilogy 2025
+instagram_5513,Celebrities,2024-02-05,Jeans,men,white,stripes,casual,5053,202,47194,Global,img_5513.jpg,,oversized,maxi,collared,half sleeve,polyester,17483.0,franchise,Fast X Sequel 2024
+instagram_5521,Instagram,2025-04-30,Jeans,men,green,graphic prints,casual,395,95,32544,US,img_5521.jpg,,straight cut,midi,crew neck,half sleeve,linen,11011.33,event - memes,Super Bowl Halftime Meme 2025
+instagram_5522,Cinema,2024-11-25,Jeans,men,beige,floral,athleisure,3224,349,12971,Europe,img_5522.jpg,,oversized,full-length,v-neck,cap sleeve,jersey,5514.67,event - political,EU Parliament 2024
+instagram_5529,Facebook,2024-08-01,Jeans,men,red,polka dots,festive,1153,172,13758,India,img_5529.jpg,,a-line,maxi,crew neck,half sleeve,cotton,5027.67,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_5549,Instagram,2025-06-18,Jeans,men,black,floral,athleisure,1435,203,17973,India,img_5549.jpg,,fit,mini,boat neck,full sleeve,rayon,6537.0,designer launches,Prada SS 2025
+instagram_5636,YouTube,2024-06-02,Jeans,men,green,stripes,casual,5212,417,28412,US,img_5636.jpg,,relaxed fit,knee-length,halter,cap sleeve,polyester,11347.0,designer launches,Chanel Cruise 2024
+instagram_5643,Marketplace,2024-12-22,Jeans,men,"yellow, black",abstract,casual,892,177,60814,US,img_5643.jpg,,regular,ankle-length,boat neck,sleeveless,denim,20627.67,books,Bestseller Book Tour 2024
+instagram_5644,YouTube,2024-06-14,Jeans,men,beige,stripes,streetwear,544,232,5121,Global,img_5644.jpg,,relaxed fit,maxi,v-neck,3/4 sleeve,polyester,1965.67,cinemas/series/cartoons/anime,One Piece Saga 2024
+instagram_5675,Cinema,2024-01-06,Jeans,men,white,stripes,casual,938,197,53806,Europe,img_5675.jpg,,regular,full-length,collared,sleeveless,cotton,18313.67,trending memes,Galaxy Brain Remix
+instagram_5697,YouTube,2025-08-13,Jeans,men,white,tie-dye,athleisure,3086,127,24926,US,img_5697.jpg,,straight cut,ankle-length,crew neck,cap sleeve,cotton,9379.67,event - memes,Super Bowl Halftime Meme 2025
+instagram_5722,Celebrities,2024-08-20,Jeans,men,pink,graphic prints,formal,3391,102,13521,US,img_5722.jpg,,relaxed fit,ankle-length,v-neck,cap sleeve,viscose,5671.33,designer launches,Gucci FW 2024
+instagram_5744,Celebrities,2025-01-17,Jeans,men,blue,abstract,formal,4461,372,5742,Global,img_5744.jpg,,regular,mini,square neck,3/4 sleeve,linen,3525.0,franchise,Star Wars New Trilogy 2025
+instagram_5747,Instagram,2024-06-08,Jeans,men,white,polka dots,festive,3299,287,17190,Europe,img_5747.jpg,,a-line,knee-length,square neck,cap sleeve,knits,6925.33,designer launches,Ralph Lauren Spring Collection 2024
+instagram_5777,YouTube,2024-10-03,Jeans,men,"blue, white",tie-dye,festive,5460,125,15014,Global,img_5777.jpg,,oversized,midi,off-shoulder,full sleeve,rayon,6866.33,franchise,Fast X Sequel 2024
+instagram_5786,YouTube,2024-01-26,Jeans,men,"red, pink",solid,formal,2484,376,31731,Global,img_5786.jpg,,fit,knee-length,boat neck,3/4 sleeve,knits,11530.33,designer launches,Ralph Lauren Spring Collection 2024
+instagram_5789,Instagram,2024-12-05,Jeans,men,beige,abstract,festive,3730,279,26470,US,img_5789.jpg,,Slim fit,maxi,crew neck,3/4 sleeve,knits,10159.67,event - political,EU Parliament 2024
+instagram_5823,Celebrities,2024-04-04,Jeans,men,yellow,abstract,formal,1567,424,9442,India,img_5823.jpg,,a-line,cropped,collared,bell sleeve,denim,3811.0,event - memes,Oscar Memes 2024
+instagram_5876,Instagram,2024-01-24,Jeans,men,blue,checks,athleisure,2037,299,7781,Global,img_5876.jpg,,a-line,cropped,polo neck,cap sleeve,linen,3372.33,franchise,Marvel Phase 5 Release 2024
+instagram_5882,Cinema,2025-08-31,Jeans,men,black,tie-dye,formal,4949,78,7654,India,img_5882.jpg,,oversized,mini,polo neck,puff sleeve,linen,4227.0,designer launches,Prada SS 2025
+instagram_5905,Facebook,2024-02-11,Jeans,men,black,animal print,streetwear,3698,265,16119,India,img_5905.jpg,,relaxed fit,full-length,square neck,full sleeve,viscose,6694.0,designer launches,Chanel Cruise 2024
+instagram_5920,Cinema,2024-05-18,Jeans,men,"blue, yellow",tie-dye,streetwear,1525,149,8210,India,img_5920.jpg,,bodycon,full-length,boat neck,3/4 sleeve,polyester,3294.67,franchise,Marvel Phase 5 Release 2024
+instagram_5963,Marketplace,2025-04-17,Jeans,men,yellow,tie-dye,casual,3220,122,55672,Europe,img_5963.jpg,,fit,cropped,crew neck,puff sleeve,denim,19671.33,event - memes,Super Bowl Halftime Meme 2025
+instagram_5969,YouTube,2024-12-18,Jeans,men,"red, black",graphic prints,festive,2763,318,35065,Europe,img_5969.jpg,,regular,cropped,v-neck,sleeveless,linen,12715.33,cinemas/series/cartoons/anime,Barbie Movie 2024
+instagram_5982,Celebrities,2024-07-20,Jeans,men,white,polka dots,festive,6141,169,29386,US,img_5982.jpg,,straight cut,maxi,square neck,puff sleeve,cotton,11898.67,trending memes,Vogue Challenge 2024
+instagram_5998,Marketplace,2024-03-10,Jeans,men,pink,animal print,streetwear,3201,137,67113,India,img_5998.jpg,,Slim fit,full-length,off-shoulder,cap sleeve,blends,23483.67,designer launches,Gucci FW 2024
+instagram_5999,Marketplace,2024-06-29,Jeans,men,yellow,polka dots,casual,2989,57,8045,Europe,img_5999.jpg,,relaxed fit,maxi,crew neck,cap sleeve,blends,3697.0,trending memes,Distracted Boyfriend Revival
